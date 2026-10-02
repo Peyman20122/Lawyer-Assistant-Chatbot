@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "l001",
+    "topic": "مدة عقد العمل",
+    "article_ref": "المادة المتعلقة بمدة العقد -- Federal Decree-Law No. 33 of 2021",
+    "text": "عقد العمل عقد محدد المدة، ولا يجوز أن تتجاوز مدته 3 سنوات. يجوز تمديده أو تجديده باتفاق الطرفين لمدة مماثلة أو أقصر، مرة أو أكثر. في حال التجديد أو التمديد، تُعتبر المدة الجديدة امتداداً للمدة الأصلية عند احتساب الحقوق المرتبطة بالأقدمية.",
+    "source_name": "Dubai Development Authority -- Federal Law 33 of 2021 Summary",
+    "source_url": "https://dda.gov.ae/-/media/218BD60807934D8F888B472B2FDB78E7.pdf"
+  },
+  {
+    "id": "l002",
+    "topic": "حالات إنهاء العقد المشروع (المادة 42)",
+    "article_ref": "المادة 42 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز إنهاء عقد العمل في حالات محددة من بينها: اتفاق الطرفين كتابياً على الإنهاء، انتهاء مدة العقد دون تمديد أو تجديد، بالإضافة إلى حالات أخرى منصوص عليها (مثل إرادة أحد الطرفين مع الالتزام بالإشعار، وفاة أحد الطرفين، أو ظروف قاهرة).",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/job-offers-and-work-permits-and-contracts/terminating-employment-contracts"
+  },
+  {
+    "id": "l003",
+    "topic": "الإنهاء غير المشروع لعلاقة العمل (المادة 47)",
+    "article_ref": "المادة 47 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يُعد إنهاء خدمة العامل من قبل صاحب العمل غير مشروع إذا كان سبب الإنهاء هو تقديم العامل شكوى جدية إلى وزارة الموارد البشرية والتوطين أو رفع دعوى قضائية ضد صاحب العمل وثبتت صحة الشكوى أو الدعوى. إذا ثبت ذلك، يجوز للمحكمة المختصة الحكم بتعويض عادل يراعى فيه نوع العمل ومقدار الضرر ومدة الخدمة، على ألا يتجاوز التعويض أجر ثلاثة أشهر محسوباً على أساس آخر أجر كان يتقاضاه العامل. ولا يمنع هذا التعويض العامل من المطالبة ببدل الإشعار ومكافأة نهاية الخدمة المستحقة له.",
+    "source_name": "Federal Decree-Law No. 33 of 2021 / UAE Government",
+    "source_url": "https://neuralhr.ai/en/resources/dispute-resolution/wrongful-dismissal"
+  },
+  {
+    "id": "l004",
+    "topic": "إنهاء الخدمة دون إشعار من صاحب العمل (المادة 44)",
+    "article_ref": "المادة 44 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز لصاحب العمل إنهاء خدمة العامل دون إشعار بعد إجراء تحقيق كتابي معه، ويجب أن يكون قرار الإنهاء مكتوباً ومسبباً، وذلك في الحالات التي حددتها المادة 44، ومنها انتحال شخصية أو تقديم مستندات مزورة، التسبب في خسارة مادية جسيمة أو الإضرار المتعمد بممتلكات صاحب العمل وفق الشروط القانونية، مخالفة تعليمات السلامة المكتوبة والمعلنة، الإخلال بالواجبات الأساسية مع استمرار المخالفة بعد التحقيق والتحذير، إفشاء أسرار العمل في الحالات المحددة قانوناً، السكر أو تعاطي المواد المخدرة أثناء ساعات العمل أو ارتكاب فعل مخل بالآداب العامة في مكان العمل، الاعتداء على صاحب العمل أو المدير أو المسؤول أو الزملاء، الغياب دون سبب مشروع لأكثر من 20 يوماً متقطعاً في السنة أو أكثر من 7 أيام متتالية، استغلال الوظيفة بصورة غير مشروعة، أو الالتحاق بمنشأة أخرى بالمخالفة للقواعد والإجراءات المقررة. ولا تعني المادة 44 بذاتها سقوط مكافأة نهاية الخدمة؛ وتحدد استحقاقاتها وفق الأحكام المنطبقة.",
+    "source_name": "Federal Decree-Law No. 33 of 2021 / UAE Government",
+    "source_url": "https://neuralhr.ai/en/resources/dispute-resolution/wrongful-dismissal"
+  },
+  {
+    "id": "l005",
+    "topic": "مهلة الإشعار قبل الإنهاء (المادة 43)",
+    "article_ref": "المادة 43 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز لأي من طرفي عقد العمل إنهاء العقد لسبب مشروع، بشرط إخطار الطرف الآخر كتابةً والالتزام بالعمل خلال مدة الإشعار المتفق عليها في العقد، على ألا تقل مدة الإشعار عن 30 يوماً ولا تزيد على 90 يوماً. ويستمر العقد نافذاً خلال مدة الإشعار، ويستحق العامل أجره عنها وفقاً للقانون. وإذا لم يلتزم أحد الطرفين بمدة الإشعار، يلتزم بدفع بدل إشعار يعادل أجر مدة الإشعار كاملة أو الجزء المتبقي منها.",
+    "source_name": "Federal Decree-Law No. 33 of 2021 / UAE Government",
+    "source_url": "https://mizan.sefarai.com/resources/uae-termination-compensation"
+  },
+  {
+    "id": "l006",
+    "topic": "مكافأة نهاية الخدمة (EOSB)",
+    "article_ref": "المادة 51 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يستحق العامل الأجنبي الذي يعمل بدوام كامل وأكمل سنة أو أكثر من الخدمة المستمرة مكافأة نهاية الخدمة عند انتهاء خدمته، وتحسب على أساس آخر أجر أساسي. وتكون بواقع 21 يوماً عن كل سنة من سنوات الخدمة الخمس الأولى، و30 يوماً عن كل سنة تزيد على الخمس سنوات، مع استحقاق نسبة عن أجزاء السنة بعد إكمال سنة من الخدمة. ولا تدخل أيام الغياب غير المدفوعة في مدة الخدمة المحتسبة، ولا يتجاوز إجمالي المكافأة أجر سنتين. أما المواطنون فتطبق عليهم التشريعات المنظمة للمعاشات والضمانات الاجتماعية، كما توجد أحكام خاصة لأنماط العمل غير الدوام الكامل.",
+    "source_name": "UAE Government -- Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://mizan.sefarai.com/resources/uae-termination-compensation"
+  },
+  {
+    "id": "l007",
+    "topic": "مهلة التسوية النهائية بعد انتهاء الخدمة",
+    "article_ref": "متطلبات التسوية النهائية -- Federal Decree-Law No. 33 of 2021 ولوائحه التنفيذية",
+    "text": "يجب على صاحب العمل دفع أجور العامل وجميع مستحقاته الأخرى، بما فيها مكافأة نهاية الخدمة عند استحقاقها، خلال 14 يوماً من تاريخ انتهاء عقد العمل، وفقاً للأحكام والشروط القانونية.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://www.usemultiplier.com/united-arab-emirates/termination-laws"
+  },
+  {
+    "id": "l008",
+    "topic": "الإجازة السنوية والمرضية وإجازة الأمومة",
+    "article_ref": "أحكام الإجازات -- Federal Decree-Law No. 33 of 2021",
+    "text": "يستحق العامل إجازة سنوية مدفوعة تقارب 30 يوماً بعد سنة خدمة كاملة (وحوالي يومين شهرياً بين 6 أشهر وسنة). تستحق الموظفة إجازة أمومة مدفوعة تقارب 60 يوماً. كما تُمنح إجازة مرضية بأحكام تدريجية (مدفوعة بالكامل ثم جزئياً ثم بدون أجر)، وإجازة وفاة (عزاء) تتراوح بين 3 و5 أيام حسب درجة القرابة.",
+    "source_name": "The Official Portal of the UAE Government (u.ae) / Federal Decree-Law text",
+    "source_url": "https://www.mohre.gov.ae/assets/download/e82f7872/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments_638990571068264034.pdf.aspx"
+  },
+  {
+    "id": "l009",
+    "topic": "العمل الإضافي (الأوفر تايم)",
+    "article_ref": "المادة 19 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز لصاحب العمل تكليف العامل بالعمل الإضافي بما لا يتجاوز ساعتين في اليوم، وفق الاستثناءات والضوابط القانونية. ويستحق العامل عن الساعات الإضافية أجراً يعادل أجر ساعات العمل العادية المحسوب على أساس الأجر الأساسي مضافاً إليه زيادة لا تقل عن 25%. وإذا وقع العمل الإضافي بين الساعة 10 مساءً و4 صباحاً، تكون الزيادة لا تقل عن 50%، مع استثناء العاملين بنظام الورديات من هذه القاعدة الخاصة. ويطبق على العمل في يوم الراحة الأسبوعية حكم التعويض بيوم راحة بديل أو بأجر اليوم العادي مضافاً إليه زيادة لا تقل عن 50% من الأجر الأساسي لذلك اليوم، وفق القانون.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://www.mohre.gov.ae/assets/download/e82f7872/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments_638990571068264034.pdf.aspx"
+  },
+  {
+    "id": "l010",
+    "topic": "آلية تسوية منازعات العمل",
+    "article_ref": "المادة 54 -- Federal Decree-Law No. 33 of 2021 وتعديلاته",
+    "text": "عند وجود نزاع عمالي، يمكن للعامل أو صاحب العمل تقديم شكوى إلى وزارة الموارد البشرية والتوطين (MOHRE). تعمل الوزارة على تسوية النزاع ودياً وفق الإجراءات المقررة. وبعد تعديل المادة 54، يجوز للوزارة إصدار قرار نهائي في الحالات التي تدخل ضمن اختصاصها، ومنها المطالبات التي لا تتجاوز 50,000 درهم، أو الحالات التي لا يلتزم فيها أحد الطرفين بقرار التسوية الودية بشأن موضوع النزاع، وفق الشروط القانونية. وإذا لم تتم التسوية أو لم يقبل الطرف المتضرر القرار ضمن الحالات التي يجيز فيها القانون ذلك، يمكن إحالة النزاع إلى المحكمة المختصة.",
+    "source_name": "MOHRE / Federal Decree-Law No. 33 of 2021 وتعديلاته",
+    "source_url": "https://mizan.sefarai.com/resources/uae-termination-compensation"
+  },
+  {
+    "id": "l011",
+    "topic": "فترة التجربة",
+    "article_ref": "أحكام فترة التجربة -- Federal Decree-Law No. 33 of 2021",
+    "text": "لا يجوز أن تتجاوز فترة التجربة 6 أشهر من تاريخ بدء العمل، ولا يجوز تعيين العامل تحت التجربة أكثر من مرة لدى صاحب العمل نفسه. إذا أراد صاحب العمل إنهاء خدمة العامل خلال فترة التجربة، فعليه إخطاره كتابةً قبل 14 يوماً على الأقل. وإذا أراد العامل الانتقال إلى صاحب عمل آخر داخل الدولة خلال فترة التجربة، فعليه إخطار صاحب العمل الأصلي كتابةً قبل شهر على الأقل، ويجوز أن يلتزم صاحب العمل الجديد بتعويض تكاليف الاستقدام أو التعاقد وفق القانون. وإذا أراد العامل مغادرة الدولة بعد إنهاء العقد خلال التجربة، فعليه إخطار صاحب العمل كتابةً قبل 14 يوماً على الأقل.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://www.mohre.gov.ae/assets/download/e82f7872/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments_638990571068264034.pdf.aspx"
+  },
+  {
+    "id": "l012",
+    "topic": "السلامة المهنية والعمل في الهواء الطلق صيفاً",
+    "article_ref": "لوائح السلامة المهنية -- MOHRE",
+    "text": "يُحظر العمل الذي يُؤدى مباشرة تحت أشعة الشمس وفي الأماكن المكشوفة خلال فترة حظر العمل وقت الظهيرة من 15 يونيو إلى 15 سبتمبر من كل عام، ومن الساعة 12:30 ظهراً إلى 3:00 عصراً، وفق القرار الوزاري والضوابط والاستثناءات المعمول بها. وتلزم قواعد السلامة أصحاب العمل باتخاذ تدابير الحماية المناسبة للعاملين.",
+    "source_name": "MOHRE / Ministerial Resolution No. 44 of 2022",
+    "source_url": "https://www.zimyo.me/guides/uae-labor-law/"
+  },
+  {
+    "id": "l013",
+    "topic": "ساعات العمل العادية",
+    "article_ref": "المادة 17 -- Federal Decree-Law No. 33 of 2021",
+    "text": "تحدد ساعات العمل العادية للعامل في القطاع الخاص بثماني ساعات عمل يومياً أو 48 ساعة عمل أسبوعياً. ويمكن زيادة أو تخفيض ساعات العمل اليومية لبعض القطاعات الاقتصادية أو فئات العمال وفقاً لما تحدده اللائحة التنفيذية.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/working-hours"
+  },
+  {
+    "id": "l014",
+    "topic": "الراحة الأسبوعية",
+    "article_ref": "أحكام الراحة الأسبوعية -- Federal Decree-Law No. 33 of 2021",
+    "text": "يستحق العامل في القطاع الخاص يوم راحة أسبوعياً بأجر كامل على الأقل، وفقاً لما يحدده عقد العمل أو لوائح المنشأة. ويمكن للمنشأة منح أيام راحة إضافية وفقاً لنظام العمل لديها.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/types-of-leaves-and-entitlements-in-the-private-sector/official-leaves-and-vacations"
+  },
+  {
+    "id": "l015",
+    "topic": "العطلات الرسمية والعمل خلالها",
+    "article_ref": "المادة 28 -- Federal Decree-Law No. 33 of 2021",
+    "text": "تُمنح العطلات الرسمية للعامل وفق الأحكام القانونية المعمول بها. وإذا اقتضت ظروف العمل تشغيل العامل خلال العطلة الرسمية، يستحق تعويضاً وفق القانون، ومن ذلك يوم راحة بديل أو أجر اليوم العادي مضافاً إليه زيادة لا تقل عن 50% من الأجر الأساسي لذلك اليوم.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/types-of-leaves-and-entitlements-in-the-private-sector/official-leaves-and-vacations"
+  },
+  {
+    "id": "l016",
+    "topic": "الإجازة السنوية",
+    "article_ref": "المادة 29 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يستحق العامل إجازة سنوية بأجر كامل لا تقل عن 30 يوماً عن كل سنة من سنوات الخدمة. وإذا تجاوزت مدة خدمته ستة أشهر ولم تبلغ سنة، فيستحق يومين عن كل شهر من الخدمة. وإذا انتهت خدمته قبل استخدام رصيد إجازته، يستحق إجازة عن جزء السنة الأخير الذي عمله.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/types-of-leaves-and-entitlements-in-the-private-sector/annual-leave"
+  },
+  {
+    "id": "l017",
+    "topic": "إجازة الأمومة",
+    "article_ref": "المادة 30 -- Federal Decree-Law No. 33 of 2021",
+    "text": "تستحق العاملة إجازة أمومة مدتها 60 يوماً: 45 يوماً بأجر كامل و15 يوماً بنصف أجر. وفي حالات مرض الأم أو الطفل الناتج عن الحمل أو الولادة، قد تستحق العاملة بعد ذلك إجازة إضافية دون أجر تصل إلى 45 يوماً وفق التقرير الطبي والشروط القانونية. كما توجد أحكام إضافية إذا كان الطفل مريضاً أو من أصحاب الهمم وفق الشروط الطبية. ولا يجوز إنهاء خدمة العاملة أو إخطارها بالإنهاء بسبب الحمل أو إجازة الأمومة أو الغياب المقرر بموجب المادة 30.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/types-of-leaves-and-entitlements-in-the-private-sector/maternity-leave"
+  },
+  {
+    "id": "l018",
+    "topic": "الإجازة المرضية",
+    "article_ref": "المادة 31 -- Federal Decree-Law No. 33 of 2021",
+    "text": "بعد انتهاء فترة التجربة، يجوز للعامل الحصول على إجازة مرضية لا تتجاوز 90 يوماً متصلة أو متقطعة في السنة. تكون أول 15 يوماً بأجر كامل، والـ30 يوماً التالية بنصف أجر، وما تبقى دون أجر، وفق الشروط القانونية. ويجب إبلاغ صاحب العمل بالمرض خلال مدة لا تتجاوز ثلاثة أيام عمل وتقديم تقرير طبي من الجهة الطبية المختصة.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2022/Federal-DecreeLaw-No-33-of-2021.ashx"
+  },
+  {
+    "id": "l019",
+    "topic": "إجازة الحداد والإجازة الوالدية",
+    "article_ref": "المادة 32 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يستحق العامل إجازة حداد مدفوعة لمدة 5 أيام عند وفاة الزوج أو الزوجة، و3 أيام عند وفاة الأب أو الأم أو الابن أو الأخ أو الأخت أو الجد أو الجدة أو الحفيد. كما يستحق العامل، سواء كان الأب أو الأم، إجازة والدية مدفوعة لمدة 5 أيام عمل لرعاية المولود، ويمكن استخدامها بصورة متصلة أو متقطعة خلال ستة أشهر من تاريخ الولادة.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2022/Federal-DecreeLaw-No-33-of-2021.ashx"
+  },
+  {
+    "id": "l020",
+    "topic": "تكاليف الاستقدام والتوظيف",
+    "article_ref": "المادة 6 -- Federal Decree-Law No. 33 of 2021",
+    "text": "لا يجوز لصاحب العمل تحميل العامل تكاليف ورسوم الاستقدام والتوظيف أو تحصيلها منه بصورة مباشرة أو غير مباشرة. كما لا يجوز للعامل العمل في دولة الإمارات إلا بعد الحصول على تصريح العمل وفقاً لأحكام القانون واللائحة التنفيذية.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l021",
+    "topic": "أنماط العمل",
+    "article_ref": "المادة 7 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يعترف القانون بعدة أنماط للعمل، منها العمل بدوام كامل، والعمل بدوام جزئي، والعمل المؤقت، والعمل المرن، بالإضافة إلى أنماط أخرى تحددها اللائحة التنفيذية. وتحدد اللائحة شروط وضوابط كل نمط والتزامات صاحب العمل والعامل.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l022",
+    "topic": "عدم السماح للعامل بأداء العمل",
+    "article_ref": "المادة 26 -- Federal Decree-Law No. 33 of 2021",
+    "text": "الأجر يكون مقابل العمل، ويلتزم صاحب العمل بتمكين العامل من أداء العمل المتفق عليه. وإذا لم يسمح صاحب العمل للعامل بأداء العمل المتفق عليه في عقد العمل، يلتزم بأداء الأجر المتفق عليه، وفقاً للإجراءات التي تحددها اللائحة التنفيذية.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l023",
+    "topic": "الحد الأدنى للأجور",
+    "article_ref": "المادة 27 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجيز القانون لمجلس الوزراء، بناءً على اقتراح الوزير وبالتنسيق مع الجهات المعنية في الدولة، إصدار قرار بتحديد حد أدنى للأجور للعمال أو لفئة معينة منهم.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l024",
+    "topic": "المساواة في الأجر بين المرأة والرجل",
+    "article_ref": "المادة 4 -- Federal Decree-Law No. 33 of 2021",
+    "text": "تُمنح المرأة العاملة أجراً مساوياً لأجر الرجل إذا كانت تؤدي العمل نفسه أو عملاً ذا قيمة مساوية، وفقاً لأحكام القانون والتشريعات ذات الصلة بالمساواة في الأجور.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/social-affairs/gender-equality/gender-equality-in-the-workplace"
+  },
+  {
+    "id": "l025",
+    "topic": "حظر التمييز والتحرش والتنمر والعنف في العمل",
+    "article_ref": "أحكام الحماية من التمييز والإساءة -- Federal Decree-Law No. 33 of 2021",
+    "text": "يحظر قانون العمل التمييز في العمل على أساس الجنس أو العرق أو اللون أو الدين أو الأصل الوطني أو الاجتماعي أو الإعاقة. كما يتناول القانون الحماية من التحرش والتنمر والعنف والإساءة النفسية والجسدية في بيئة العمل، ويحظر العمل الجبري.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/labour-rights"
+  },
+  {
+    "id": "l026",
+    "topic": "شرط عدم المنافسة",
+    "article_ref": "المادة 10 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز أن يتضمن عقد العمل شرطاً يقيد العامل عن منافسة صاحب العمل بعد انتهاء العقد إذا كانت طبيعة عمل العامل تتيح له الاطلاع على عملاء صاحب العمل أو أسراره التجارية، بشرط تحديد مدة القيد ومكانه ونوع العمل وبالقدر اللازم لحماية المصالح التجارية المشروعة. ولا يجوز أن تتجاوز مدة شرط عدم المنافسة سنتين من تاريخ انتهاء العقد.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/job-offers-and-work-permits-and-contracts/employment-contracts-duration-and-models-in-the-private-sector"
+  },
+  {
+    "id": "l027",
+    "topic": "الاستقالة خلال فترة التجربة",
+    "article_ref": "أحكام فترة التجربة -- Federal Decree-Law No. 33 of 2021",
+    "text": "إذا رغب العامل خلال فترة التجربة في إنهاء العلاقة بهدف مغادرة دولة الإمارات، فعليه إخطار صاحب العمل كتابياً قبل 14 يوماً. وتوجد أحكام خاصة إذا كان العامل سينتقل إلى صاحب عمل آخر داخل الدولة خلال فترة التجربة.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/job-offers-and-work-permits-and-contracts/employment-contracts-duration-and-models-in-the-private-sector"
+  },
+  {
+    "id": "l028",
+    "topic": "الجزاءات التأديبية",
+    "article_ref": "المادة 39 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز لصاحب العمل توقيع الجزاءات التأديبية المنصوص عليها قانوناً، ومنها الإنذار أو التنبيه الكتابي، والخصم من الأجر ضمن الحدود القانونية، والإيقاف عن العمل دون أجر لمدة لا تتجاوز 14 يوماً، والحرمان من بعض الزيادات أو الترقيات وفق الشروط، أو إنهاء الخدمة مع حفظ حق العامل في مكافأة نهاية الخدمة.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/disciplinary-rules"
+  },
+  {
+    "id": "l029",
+    "topic": "إجراءات توقيع الجزاء التأديبي",
+    "article_ref": "اللائحة التنفيذية -- Cabinet Resolution No. 1 of 2022",
+    "text": "لا يجوز توقيع الجزاء التأديبي قبل إخطار العامل كتابةً بالمخالفة، وسماع أقواله، وفحص دفاعه، وتوثيق الواقعة في ملفه. ويجب إخطار العامل كتابةً بالجزاء ونوعه ومدته وأسبابه والآثار المترتبة على تكرار المخالفة. وتحدد اللائحة التنفيذية أيضاً مدداً وإجراءات مرتبطة بالتحقيق والجزاء.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/disciplinary-rules"
+  },
+  {
+    "id": "l030",
+    "topic": "حظر تشغيل الأطفال",
+    "article_ref": "Federal Decree-Law No. 33 of 2021",
+    "text": "يحظر قانون العمل تشغيل الأطفال دون سن 15 عاماً، وتوجد أحكام وشروط خاصة لتوظيف الأحداث وتصاريح العمل الخاصة بهم وفقاً للقانون واللائحة التنفيذية.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/labour-rights"
+  },
+  {
+    "id": "l031",
+    "topic": "تصريح العمل",
+    "article_ref": "المادة 6 -- Federal Decree-Law No. 33 of 2021",
+    "text": "لا يجوز ممارسة العمل في دولة الإمارات ولا يجوز لصاحب العمل استقدام أو تشغيل العامل إلا بعد الحصول على تصريح عمل من وزارة الموارد البشرية والتوطين وفقاً لأحكام القانون واللائحة التنفيذية.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l032",
+    "topic": "تطبيق قانون العمل على القطاع الخاص",
+    "article_ref": "نطاق تطبيق Federal Decree-Law No. 33 of 2021",
+    "text": "ينظم المرسوم بقانون اتحادي رقم 33 لسنة 2021 علاقات العمل في القطاع الخاص في دولة الإمارات، ويشمل المواطنين وغير المواطنين مع وجود فئات مستثناة تخضع لتشريعات أخرى، ومنها موظفو الحكومة والقوات المسلحة والشرطة والأمن وعمال الخدمة المساعدة.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/employment-laws-and-regulations-in-the-private-sector"
+  },
+  {
+    "id": "l033",
+    "topic": "دفع الأجور في مواعيد استحقاقها",
+    "article_ref": "المادة 22 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يلتزم صاحب العمل بأداء أجور العاملين لديه في مواعيد استحقاقها وفق الأنظمة المعتمدة والشروط والضوابط والإجراءات التي تحددها اللائحة التنفيذية. ويجب على المنشآت المسجلة لدى الوزارة الالتزام بالأنظمة المعتمدة لدفع الأجور.",
+    "source_name": "MOHRE / Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l034",
+    "topic": "نظام حماية الأجور WPS",
+    "article_ref": "المادة 22 واللائحة التنفيذية -- Cabinet Resolution No. 1 of 2022",
+    "text": "تلتزم المنشآت المسجلة لدى وزارة الموارد البشرية والتوطين بدفع أجور العاملين في مواعيد استحقاقها من خلال نظام حماية الأجور أو أي أنظمة أخرى تعتمدها الوزارة، وفق الشروط والإجراءات المقررة.",
+    "source_name": "MOHRE",
+    "source_url": "https://www.mohre.gov.ae/"
+  },
+  {
+    "id": "l035",
+    "topic": "الاقتطاع من أجر العامل",
+    "article_ref": "أحكام حماية الأجر -- Federal Decree-Law No. 33 of 2021",
+    "text": "لا يجوز لصاحب العمل اقتطاع أي مبلغ من أجر العامل إلا في الحالات التي يسمح بها القانون واللائحة التنفيذية. وتشمل الحالات المسموح بها بعض المبالغ المتعلقة بالسلف أو استرداد مبالغ دفعت بالزيادة أو تنفيذ حكم قضائي، مع مراعاة الحدود والنسب المنصوص عليها قانوناً.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l036",
+    "topic": "الحد الأقصى لخصم الأجر",
+    "article_ref": "أحكام الخصم من الأجر -- Federal Decree-Law No. 33 of 2021",
+    "text": "تخضع الخصومات والاستقطاعات من أجر العامل لحدود وضوابط قانونية، ولا يجوز لصاحب العمل إجراء خصومات غير مصرح بها أو تجاوز الحدود المقررة في القانون واللائحة التنفيذية.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l037",
+    "topic": "الأجر الأساسي والأجر الإجمالي",
+    "article_ref": "تعريفات الأجر -- Federal Decree-Law No. 33 of 2021",
+    "text": "يميز القانون بين الأجر الأساسي والأجر الإجمالي. ويشمل الأجر الإجمالي الأجر الأساسي مضافاً إليه البدلات والمزايا الأخرى المقررة للعامل وفق عقد العمل أو التشريعات ذات الصلة. وتستخدم تعريفات الأجر المختلفة عند احتساب بعض الحقوق العمالية.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l038",
+    "topic": "التعويض عن إصابة العمل",
+    "article_ref": "أحكام إصابات العمل والأمراض المهنية -- Federal Decree-Law No. 33 of 2021",
+    "text": "إذا أصيب العامل بإصابة عمل أو أصيب بمرض مهني، يلتزم صاحب العمل بالإبلاغ عن الإصابة وفق الإجراءات المقررة وتوفير الرعاية والعلاج وفق أحكام القانون. ويستحق العامل أو ورثته، بحسب الحالة، الحقوق والتعويضات المقررة قانوناً.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/work-injury-compensation-in-the-uae"
+  },
+  {
+    "id": "l039",
+    "topic": "أجر العامل أثناء علاج إصابة العمل",
+    "article_ref": "أحكام إصابات العمل -- Federal Decree-Law No. 33 of 2021",
+    "text": "في حالة إصابة العامل بإصابة عمل أو مرض مهني، تسري أحكام خاصة بأجره خلال فترة العلاج وبالمدة اللازمة للتعافي، وفقاً لما يثبته التقرير الطبي والضوابط المنصوص عليها في القانون واللائحة التنفيذية.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/work-injury-compensation-in-the-uae"
+  },
+  {
+    "id": "l040",
+    "topic": "تعويض العجز الناتج عن إصابة العمل",
+    "article_ref": "أحكام إصابات العمل والأمراض المهنية",
+    "text": "إذا أدت إصابة العمل أو المرض المهني إلى عجز كلي أو جزئي، تطبق الأحكام القانونية الخاصة بالتعويض وفق درجة العجز المثبتة بالتقرير الطبي والجهة المختصة. وتختلف قيمة التعويض بحسب نوع العجز ونسبته والحالة القانونية للعامل.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/work-injury-compensation-in-the-uae"
+  },
+  {
+    "id": "l041",
+    "topic": "السكن العمالي",
+    "article_ref": "متطلبات السكن العمالي في دولة الإمارات",
+    "text": "تخضع مساكن العمال لمتطلبات وضوابط تتعلق بالصحة والسلامة والنظافة والتهوية والمساحة والخدمات الأساسية، وفق التشريعات والقرارات المطبقة على المنشآت ومساكن العمال.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/labour-accommodation"
+  },
+  {
+    "id": "l042",
+    "topic": "السلامة والصحة المهنية",
+    "article_ref": "أحكام السلامة والصحة المهنية -- Federal Decree-Law No. 33 of 2021",
+    "text": "يلتزم صاحب العمل بتوفير بيئة عمل آمنة ومناسبة، واتخاذ التدابير اللازمة لحماية العاملين من المخاطر والإصابات والأمراض المهنية، وتوفير وسائل الوقاية والتدريب والتعليمات المتعلقة بالسلامة المهنية وفق التشريعات المعمول بها.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/health-and-safety-at-work"
+  },
+  {
+    "id": "l043",
+    "topic": "معدات الحماية الشخصية",
+    "article_ref": "متطلبات السلامة المهنية",
+    "text": "يجب على صاحب العمل اتخاذ إجراءات الوقاية من مخاطر العمل وتوفير وسائل ومعدات الحماية المناسبة بحسب طبيعة العمل، مع توعية العاملين بطريقة استخدامها والمحافظة عليها.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/health-and-safety-at-work"
+  },
+  {
+    "id": "l044",
+    "topic": "العمل في أوقات الحر",
+    "article_ref": "قرار حظر العمل وقت الظهيرة -- MOHRE",
+    "text": "تفرض دولة الإمارات خلال الفترة المحددة سنوياً قيوداً على العمل في الأماكن المكشوفة وتحت أشعة الشمس المباشرة خلال ساعات الظهيرة، مع وجود استثناءات للأعمال التي تتطلب استمرارها لأسباب فنية أو تتعلق بالخدمات الأساسية وفق الضوابط الرسمية.",
+    "source_name": "MOHRE",
+    "source_url": "https://www.mohre.gov.ae/"
+  },
+  {
+    "id": "l045",
+    "topic": "العمل الليلي",
+    "article_ref": "أحكام العمل الليلي -- Federal Decree-Law No. 33 of 2021",
+    "text": "تطبق أحكام خاصة على العمل الليلي والعمل في الساعات المتأخرة، وتختلف بعض قواعد التعويض عن العمل الإضافي بحسب وقت أداء العمل وطبيعته والفئة التي ينتمي إليها العامل.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l046",
+    "topic": "إجازة الدراسة",
+    "article_ref": "أحكام إجازة الدراسة -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز للعامل الذي يستوفي الشروط القانونية الحصول على إجازة دراسة وفق الأحكام والمدد والشروط التي تحددها التشريعات واللائحة التنفيذية، وذلك في الحالات التي ينطبق عليها الاستحقاق.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/types-of-leaves-and-entitlements-in-the-private-sector"
+  },
+  {
+    "id": "l047",
+    "topic": "إجازة التفرغ لأداء الامتحانات",
+    "article_ref": "أحكام الإجازات -- Federal Decree-Law No. 33 of 2021",
+    "text": "يستحق العامل الذي يدرس في إحدى المؤسسات التعليمية المعتمدة في الدولة إجازة للتفرغ لأداء الامتحانات وفق الشروط والمدة التي يحددها القانون واللائحة التنفيذية، وبحسب متطلبات الاستحقاق.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/types-of-leaves-and-entitlements-in-the-private-sector"
+  },
+  {
+    "id": "l048",
+    "topic": "حق العامل في الحصول على شهادة خبرة",
+    "article_ref": "أحكام انتهاء علاقة العمل -- Federal Decree-Law No. 33 of 2021",
+    "text": "عند انتهاء علاقة العمل، يحق للعامل طلب شهادة خبرة من صاحب العمل تتضمن البيانات المتعلقة بمدة خدمته وطبيعة عمله وآخر أجر كان يتقاضاه، وفقاً للضوابط القانونية، ولا يجوز أن تتضمن الشهادة ما يسيء إلى العامل أو يقلل من فرصه في الحصول على عمل جديد.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l049",
+    "topic": "مستحقات العامل عند انتهاء العقد",
+    "article_ref": "أحكام انتهاء علاقة العمل -- Federal Decree-Law No. 33 of 2021",
+    "text": "عند انتهاء علاقة العمل، يستحق العامل المستحقات المالية التي يقررها القانون والعقد، ومنها الأجر المستحق وبدل رصيد الإجازة السنوية المستحق ومكافأة نهاية الخدمة عند توافر شروطها وأي مستحقات أخرى واجبة قانوناً.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/end-of-service-benefits-for-workers-in-the-private-sector"
+  },
+  {
+    "id": "l050",
+    "topic": "حق العامل في البحث عن وظيفة أثناء فترة الإشعار",
+    "article_ref": "المادة 43 -- Federal Decree-Law No. 33 of 2021",
+    "text": "إذا أنهى صاحب العمل عقد العامل، يحق للعامل خلال فترة الإشعار الغياب عن العمل يوماً واحداً دون أجر في كل أسبوع للبحث عن فرصة عمل أخرى، مع إخطار صاحب العمل بموعد الغياب قبل ثلاثة أيام على الأقل.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l051",
+    "topic": "بدل الإشعار",
+    "article_ref": "المادة 43 -- Federal Decree-Law No. 33 of 2021",
+    "text": "إذا لم يلتزم أحد الطرفين بمدة الإشعار المتفق عليها، يلتزم الطرف الذي لم يلتزم بدفع بدل إشعار للطرف الآخر. ويعادل البدل أجر العامل عن كامل مدة الإشعار أو الجزء المتبقي منها، وفقاً للقواعد القانونية.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l052",
+    "topic": "استقالة العامل والالتزام بفترة الإشعار",
+    "article_ref": "المادة 43 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز للعامل إنهاء عقد العمل بسبب مشروع مع تقديم إشعار كتابي لصاحب العمل والالتزام بمدة الإشعار المتفق عليها في العقد، على ألا تقل المدة عن 30 يوماً ولا تزيد على 90 يوماً.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l053",
+    "topic": "إنهاء العقد باتفاق الطرفين",
+    "article_ref": "المادة 42 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز إنهاء علاقة العمل باتفاق الطرفين، بشرط أن يكون الاتفاق وفق الإجراءات والشروط القانونية وأن يتم توثيق الإنهاء بالطريقة المطلوبة.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l054",
+    "topic": "إنهاء العقد بسبب إغلاق المنشأة",
+    "article_ref": "المادة 42 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يمكن أن تنتهي علاقة العمل في حالة إغلاق المنشأة بصورة نهائية، وفق التشريعات والإجراءات المعمول بها في الدولة، مع حفظ الحقوق والمستحقات القانونية للعامل.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l055",
+    "topic": "إنهاء العقد بسبب وفاة العامل أو العجز الكلي الدائم",
+    "article_ref": "المادة 42 -- Federal Decree-Law No. 33 of 2021",
+    "text": "تنتهي علاقة العمل في حالة وفاة العامل أو ثبوت عجزه الكلي الدائم عن العمل وفق شهادة صادرة عن الجهة الطبية المختصة، مع تطبيق الأحكام المتعلقة بالمستحقات والتعويضات وفق الحالة.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l056",
+    "topic": "إنهاء العقد لأسباب اقتصادية أو استثنائية",
+    "article_ref": "المادة 42 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يمكن أن تنتهي علاقة العمل بسبب الإفلاس أو الإعسار أو وجود أسباب اقتصادية أو استثنائية تمنع استمرار المشروع، وذلك وفق الشروط والإجراءات التي تحددها اللائحة التنفيذية والتشريعات النافذة.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l057",
+    "topic": "إنهاء العقد أثناء فترة التجربة من قبل صاحب العمل",
+    "article_ref": "أحكام فترة التجربة -- Federal Decree-Law No. 33 of 2021",
+    "text": "إذا رغب صاحب العمل في إنهاء خدمة العامل خلال فترة التجربة، تطبق مدة الإشعار والإجراءات المحددة قانوناً، وتختلف الأحكام بحسب ما إذا كان العامل سيبقى داخل الدولة أو سيغادرها.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/job-offers-and-work-permits-and-contracts/employment-contracts-duration-and-models-in-the-private-sector"
+  },
+  {
+    "id": "l058",
+    "topic": "حظر العمل الجبري",
+    "article_ref": "المادة 4 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يحظر القانون العمل الجبري، ولا يجوز إجبار العامل على أداء العمل تحت التهديد أو الإكراه بالمخالفة للتشريعات النافذة في دولة الإمارات.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l059",
+    "topic": "حماية العامل من التحرش الجنسي",
+    "article_ref": "المادة 4 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يحظر التحرش الجنسي في مكان العمل، ويشمل ذلك أي سلوك أو تصرف ذي طبيعة جنسية يهدف إلى أو يؤدي إلى مضايقة العامل أو الإساءة إليه أو التأثير على حقوقه في بيئة العمل.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/labour-rights"
+  },
+  {
+    "id": "l060",
+    "topic": "التنمر في مكان العمل",
+    "article_ref": "المادة 4 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يحظر التنمر وأي سلوك مسيء أو عدواني أو مهين في مكان العمل، بما في ذلك السلوك اللفظي أو الجسدي أو النفسي الذي يهدف إلى إيذاء العامل أو تخويفه أو التقليل من كرامته.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/labour-rights"
+  },
+  {
+    "id": "l061",
+    "topic": "أنواع تصاريح العمل",
+    "article_ref": "المادة 6 من قرار مجلس الوزراء رقم 1 لسنة 2022",
+    "text": "تشمل أنواع تصاريح العمل تصريح استقدام عامل من خارج الدولة، وتصريح نقل عامل من منشأة إلى أخرى، وتصريح العمل للمقيم على كفالة ذويه، وتصريح العمل المؤقت، وتصريح مهمة واحدة، وتصريح العمل لبعض أنماط العمل مثل العمل الجزئي، إضافة إلى تصاريح خاصة بفئات محددة وفقاً للائحة التنفيذية.",
+    "source_name": "UAE Government -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://u.ae/-/media/Information-and-services/Jobs/Cabinet-Resolution-Executive-Regulations-DecreeLaw-No-33-5.pdf"
+  },
+  {
+    "id": "l062",
+    "topic": "تصريح نقل العامل بين المنشآت",
+    "article_ref": "المادة 6 -- Cabinet Resolution No. 1 of 2022",
+    "text": "يوجد تصريح عمل مخصص لنقل العامل غير المواطن من منشأة مسجلة لدى وزارة الموارد البشرية والتوطين إلى منشأة أخرى، وفق الشروط والإجراءات التي تحددها الوزارة واللائحة التنفيذية.",
+    "source_name": "UAE Government -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://u.ae/-/media/Information-and-services/Jobs/Cabinet-Resolution-Executive-Regulations-DecreeLaw-No-33-5.pdf"
+  },
+  {
+    "id": "l063",
+    "topic": "العمل بدوام جزئي لدى أكثر من صاحب عمل",
+    "article_ref": "أحكام تصريح العمل الجزئي -- Cabinet Resolution No. 1 of 2022",
+    "text": "يسمح تصريح العمل الجزئي للعامل بالعمل لدى أكثر من صاحب عمل عندما يصدر له التصريح المطلوب من وزارة الموارد البشرية والتوطين وتتحقق الشروط القانونية الخاصة بهذا النوع من العمل.",
+    "source_name": "UAE Government -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://u.ae/-/media/Information-and-services/Jobs/Cabinet-Resolution-Executive-Regulations-DecreeLaw-No-33-5.pdf"
+  },
+  {
+    "id": "l064",
+    "topic": "تصريح العمل للمقيم على كفالة الأسرة",
+    "article_ref": "المادة 6 -- Cabinet Resolution No. 1 of 2022",
+    "text": "يجوز للمقيمين في دولة الإمارات على كفالة ذويهم العمل لدى منشأة مسجلة لدى الوزارة بعد الحصول على تصريح العمل المخصص لهذه الفئة واستيفاء الشروط المطلوبة.",
+    "source_name": "UAE Government -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://u.ae/-/media/Information-and-services/Jobs/Cabinet-Resolution-Executive-Regulations-DecreeLaw-No-33-5.pdf"
+  },
+  {
+    "id": "l065",
+    "topic": "تصريح العمل المؤقت",
+    "article_ref": "المادة 6 -- Cabinet Resolution No. 1 of 2022",
+    "text": "يصدر تصريح العمل المؤقت للعامل الذي يتم توظيفه لتنفيذ عمل محدد أو لإنجاز مهمة خلال مدة زمنية محددة لدى منشأة مسجلة لدى وزارة الموارد البشرية والتوطين.",
+    "source_name": "UAE Government -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://u.ae/-/media/Information-and-services/Jobs/Cabinet-Resolution-Executive-Regulations-DecreeLaw-No-33-5.pdf"
+  },
+  {
+    "id": "l066",
+    "topic": "تصريح مهمة واحدة",
+    "article_ref": "المادة 6 -- Cabinet Resolution No. 1 of 2022",
+    "text": "يسمح تصريح المهمة الواحدة للمنشأة باستقدام عامل من خارج الدولة لتنفيذ عمل مؤقت أو مشروع محدد خلال فترة زمنية معينة وفق الشروط التي تحددها الوزارة.",
+    "source_name": "UAE Government -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://u.ae/-/media/Information-and-services/Jobs/Cabinet-Resolution-Executive-Regulations-DecreeLaw-No-33-5.pdf"
+  },
+  {
+    "id": "l067",
+    "topic": "منع تشغيل العامل لدى طرف ثالث",
+    "article_ref": "Federal Decree-Law No. 33 of 2021",
+    "text": "لا يجوز لصاحب العمل السماح للعامل بالعمل لدى طرف ثالث إلا وفق أحكام قانون تنظيم علاقات العمل ولائحته التنفيذية والقرارات الوزارية المنفذة لها، وبما يتوافق مع نوع تصريح العمل الصادر للعامل.",
+    "source_name": "MOHRE -- Awareness Guide for New Employers",
+    "source_url": "https://www.mohre.gov.ae/assets/download/3221206e/Awareness%20Guide%20for%20New%20Employers%20Companies%20-%20EN_639011571513592816.pdf.aspx"
+  },
+  {
+    "id": "l068",
+    "topic": "تكاليف استقدام العامل",
+    "article_ref": "المادة 6 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يتحمل صاحب العمل تكاليف استقدام العامل من بلده الأصلي، إضافة إلى الرسوم الحكومية المتعلقة بتوظيفه لدى المنشأة والتأمينات والاشتراكات والضمانات التي تفرضها التشريعات المعمول بها. ولا يجوز تحميل العامل تكاليف الاستقدام والتوظيف بصورة مباشرة أو غير مباشرة.",
+    "source_name": "MOHRE -- Awareness Guide for New Employers",
+    "source_url": "https://www.mohre.gov.ae/assets/download/3221206e/Awareness%20Guide%20for%20New%20Employers%20Companies%20-%20EN_639011571513592816.pdf.aspx"
+  },
+  {
+    "id": "l069",
+    "topic": "انتقال العامل بعد انتهاء العقد",
+    "article_ref": "المادة 49 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز للعامل بعد انتهاء عقد العمل الانتقال للعمل لدى صاحب عمل آخر وفق الشروط والإجراءات التي تحددها اللائحة التنفيذية والتشريعات النافذة في دولة الإمارات.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://assets.u.ae/api/public/content/eb65a60bbff949fa912eddd566613014?v=7174ed78"
+  },
+  {
+    "id": "l070",
+    "topic": "استمرار عقد العمل عند تغيير الشكل القانوني للمنشأة",
+    "article_ref": "المادة 48 -- Federal Decree-Law No. 33 of 2021",
+    "text": "تبقى عقود العمل السارية نافذة عند تغيير الشكل أو الوضع القانوني للمنشأة. ويكون صاحب العمل الجديد مسؤولاً عن تنفيذ أحكام العقود وقانون تنظيم علاقات العمل من تاريخ تعديل بيانات المنشأة لدى الجهات المختصة.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://assets.u.ae/api/public/content/eb65a60bbff949fa912eddd566613014?v=7174ed78"
+  },
+  {
+    "id": "l071",
+    "topic": "شرط عدم المنافسة عند انتهاء العقد",
+    "article_ref": "المادة 10 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز الاتفاق على شرط عدم منافسة العامل لصاحب العمل بعد انتهاء العقد إذا كانت طبيعة عمل العامل تسمح له بالاطلاع على عملاء صاحب العمل أو أسراره التجارية. ويجب تحديد مدة الشرط ومكانه ونوع العمل، ولا يجوز أن تتجاوز مدة شرط عدم المنافسة سنتين من تاريخ انتهاء العقد.",
+    "source_name": "MOHRE -- Awareness Guide for New Employers",
+    "source_url": "https://www.mohre.gov.ae/assets/download/3221206e/Awareness%20Guide%20for%20New%20Employers%20Companies%20-%20EN_639011571513592816.pdf.aspx"
+  },
+  {
+    "id": "l072",
+    "topic": "استثناء شرط عدم المنافسة عند خطأ صاحب العمل",
+    "article_ref": "أحكام شرط عدم المنافسة -- Federal Decree-Law No. 33 of 2021",
+    "text": "لا يسري شرط عدم المنافسة في الحالات التي يكون فيها سبب إنهاء علاقة العمل راجعاً إلى صاحب العمل، وفقاً للأحكام والشروط المنصوص عليها في القانون واللائحة التنفيذية.",
+    "source_name": "MOHRE -- Awareness Guide for New Employers",
+    "source_url": "https://www.mohre.gov.ae/assets/download/3221206e/Awareness%20Guide%20for%20New%20Employers%20Companies%20-%20EN_639011571513592816.pdf.aspx"
+  },
+  {
+    "id": "l073",
+    "topic": "الفصل بسبب شكوى عمالية",
+    "article_ref": "المادة 47 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يعد إنهاء خدمة العامل من قبل صاحب العمل غير مشروع إذا كان سبب الإنهاء هو تقديم العامل شكوى جدية إلى وزارة الموارد البشرية والتوطين أو رفع دعوى قضائية ضد صاحب العمل وثبتت صحة الشكوى أو الدعوى.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://assets.u.ae/api/public/content/eb65a60bbff949fa912eddd566613014?v=7174ed78"
+  },
+  {
+    "id": "l074",
+    "topic": "تعويض الفصل غير المشروع",
+    "article_ref": "المادة 47 -- Federal Decree-Law No. 33 of 2021",
+    "text": "إذا ثبت أن إنهاء خدمة العامل كان غير مشروع وفق المادة 47، يجوز للمحكمة المختصة الحكم بتعويض عادل للعامل مع مراعاة نوع العمل ومقدار الضرر ومدة الخدمة، على ألا يتجاوز التعويض أجر ثلاثة أشهر محسوباً على أساس آخر أجر كان يتقاضاه العامل.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://assets.u.ae/api/public/content/eb65a60bbff949fa912eddd566613014?v=7174ed78"
+  },
+  {
+    "id": "l075",
+    "topic": "عدم تأثر بدل الإشعار ومكافأة نهاية الخدمة بالتعويض",
+    "article_ref": "المادة 47 -- Federal Decree-Law No. 33 of 2021",
+    "text": "التعويض عن الإنهاء غير المشروع لا يمنع العامل من المطالبة ببدل فترة الإشعار ومكافأة نهاية الخدمة المستحقة له وفق أحكام القانون، متى توافرت شروط استحقاقها.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://assets.u.ae/api/public/content/eb65a60bbff949fa912eddd566613014?v=7174ed78"
+  },
+  {
+    "id": "l076",
+    "topic": "الشكوى إلى وزارة الموارد البشرية والتوطين",
+    "article_ref": "إجراءات تسوية المنازعات العمالية -- MOHRE",
+    "text": "يمكن للعامل أو صاحب العمل تقديم شكوى عمالية إلى وزارة الموارد البشرية والتوطين عند وجود نزاع يتعلق بعلاقة العمل. تقوم الوزارة بالنظر في النزاع ومحاولة تسويته وفق الإجراءات المقررة.",
+    "source_name": "MOHRE",
+    "source_url": "https://twasoul.mohre.gov.ae/"
+  },
+  {
+    "id": "l077",
+    "topic": "الاستشارات والمطالبات العمالية",
+    "article_ref": "خدمات MOHRE",
+    "text": "توفر وزارة الموارد البشرية والتوطين قنوات للاستشارات القانونية وتقديم المطالبات والشكاوى العمالية. وتوفر الوزارة مركزاً للاستشارات والمطالبات العمالية على الرقم 80084، إضافة إلى قنوات التواصل والخدمات الإلكترونية.",
+    "source_name": "MOHRE",
+    "source_url": "https://observatory.mohre.gov.ae/ar/uae-labour-market-priorities/progressive-workforce-interaction-channels"
+  },
+  {
+    "id": "l078",
+    "topic": "إحالة النزاع العمالي إلى المحكمة",
+    "article_ref": "إجراءات تسوية المنازعات العمالية",
+    "text": "إذا تعذر حل النزاع العمالي من خلال إجراءات التسوية لدى وزارة الموارد البشرية والتوطين، يمكن أن ينتقل النزاع إلى الجهة القضائية المختصة وفق القواعد والإجراءات المطبقة على المنازعات العمالية.",
+    "source_name": "MOHRE / UAE Government",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/resolving-labour-disputes"
+  },
+  {
+    "id": "l079",
+    "topic": "الممنوع من إصدار تصريح عمل جديد",
+    "article_ref": "قواعد حظر إصدار تصريح عمل جديد",
+    "text": "توجد حالات قانونية وإجرائية يمكن أن تؤدي إلى حظر إصدار تصريح عمل جديد للعامل لمدة محددة، وفق سبب انتهاء علاقة العمل والظروف المحيطة بها ونوع المخالفة أو الإنهاء، وتطبق الوزارة الشروط والاستثناءات المحددة في الأنظمة النافذة.",
+    "source_name": "The Official Portal of the UAE Government (u.ae)",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/banning-the-issuance-of-a-new-work-permit-for-one-year"
+  },
+  {
+    "id": "l080",
+    "topic": "الاحتيال في عروض العمل والتأشيرات",
+    "article_ref": "إرشادات MOHRE لمكافحة الاحتيال العمالي",
+    "text": "ينبغي للعامل التحقق من صحة عرض العمل وتصريح العمل والجهة المستخدمة قبل دفع أي مبالغ أو تسليم وثائق شخصية. ولا يجوز لصاحب العمل تحميل العامل تكاليف الاستقدام والتوظيف المحظورة قانوناً.",
+    "source_name": "The Official Portal of the UAE Government / MOHRE",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/tips-to-stay-safe-from-labour-and-visa-fraud"
+  },
+  {
+    "id": "l081",
+    "topic": "التحقق من عرض العمل",
+    "article_ref": "خدمات عروض وعقود العمل -- MOHRE",
+    "text": "يمكن التحقق من بيانات عرض أو عقد العمل من خلال الخدمات الإلكترونية التابعة لوزارة الموارد البشرية والتوطين باستخدام البيانات المطلوبة مثل رقم المعاملة وبيانات جواز السفر والجنسية وتاريخ الميلاد.",
+    "source_name": "MOHRE",
+    "source_url": "https://receipts.mohre.gov.ae/OfferInquiry/Index"
+  },
+  {
+    "id": "l082",
+    "topic": "التوطين Emiratisation في القطاع الخاص",
+    "article_ref": "سياسات التوطين في القطاع الخاص -- MOHRE",
+    "text": "تطبق دولة الإمارات سياسات للتوطين تهدف إلى زيادة مشاركة المواطنين الإماراتيين في وظائف القطاع الخاص. وتخضع المنشآت المشمولة بالقرارات ذات الصلة لنسب ومتطلبات والتزامات تختلف بحسب حجم المنشأة ونشاطها وتصنيفها والقرارات السارية.",
+    "source_name": "The Official Portal of the UAE Government",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/employing-emiratis-in-the-private-sector"
+  },
+  {
+    "id": "l083",
+    "topic": "توظيف المواطنين الإماراتيين",
+    "article_ref": "سياسات Emiratisation -- MOHRE",
+    "text": "على المنشآت الخاصة المشمولة بقرارات التوطين الالتزام بمتطلبات توظيف المواطنين والنسب المقررة والضوابط المرتبطة بها، وفق القرارات الحكومية السارية وحسب فئة المنشأة ونشاطها.",
+    "source_name": "MOHRE",
+    "source_url": "https://www.mohre.gov.ae/"
+  },
+  {
+    "id": "l084",
+    "topic": "حقوق مواطني دول مجلس التعاون في القطاع الخاص",
+    "article_ref": "أحكام عمل مواطني دول مجلس التعاون",
+    "text": "يتمتع مواطنو دول مجلس التعاون لدول الخليج العربية بإجراءات وضوابط خاصة للعمل في دولة الإمارات، وتطبق عليهم القواعد والتصاريح والإجراءات التي تحددها التشريعات والقرارات ذات الصلة.",
+    "source_name": "The Official Portal of the UAE Government",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/gcc-nationals-working-in-the-private-sector"
+  },
+  {
+    "id": "l085",
+    "topic": "المستندات المتعلقة بعقد العمل",
+    "article_ref": "أحكام عقد العمل -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجب أن يتضمن عقد العمل البيانات الأساسية المتعلقة بطرفي العقد ومكان العمل وطبيعة العمل ومدته وساعات العمل والأجر والمزايا وفترة التجربة وشروط الإنهاء وغيرها من البيانات التي تحددها التشريعات واللوائح المعمول بها.",
+    "source_name": "MOHRE",
+    "source_url": "https://receipts.mohre.gov.ae/OfferInquiry/Index"
+  },
+  {
+    "id": "l086",
+    "topic": "عرض العمل وعقد العمل",
+    "article_ref": "إجراءات عروض وعقود العمل -- MOHRE",
+    "text": "تستخدم وزارة الموارد البشرية والتوطين نظاماً لعروض وعقود العمل لتنظيم العلاقة التعاقدية بين العامل والمنشأة. ويمكن للعامل التحقق من عقده المسجل لدى الوزارة باستخدام خدمة الاستعلام الإلكترونية.",
+    "source_name": "MOHRE",
+    "source_url": "https://receipts.mohre.gov.ae/OfferInquiry/Index"
+  },
+  {
+    "id": "l087",
+    "topic": "تدريب وتأهيل العاملين",
+    "article_ref": "التزامات صاحب العمل -- Federal Decree-Law No. 33 of 2021",
+    "text": "يتعين على صاحب العمل اتخاذ التدابير اللازمة لتعريف العامل بحقوقه والتزاماته في العمل، وتوفير الأدوات والبرامج والتدريب والتأهيل المناسب وفق طبيعة العمل وأحكام التشريعات النافذة.",
+    "source_name": "MOHRE -- Awareness Guide for New Employers",
+    "source_url": "https://www.mohre.gov.ae/assets/download/3221206e/Awareness%20Guide%20for%20New%20Employers%20Companies%20-%20EN_639011571513592816.pdf.aspx"
+  },
+  {
+    "id": "l088",
+    "topic": "التزامات صاحب العمل تجاه بيئة العمل",
+    "article_ref": "التزامات صاحب العمل -- Federal Decree-Law No. 33 of 2021",
+    "text": "يلتزم صاحب العمل بتوفير بيئة عمل مناسبة وآمنة، وتعريف العامل بالحقوق والواجبات، وتوفير الأدوات اللازمة للعمل والتدريب المناسب، والالتزام بالتشريعات والقرارات المنظمة لعلاقة العمل.",
+    "source_name": "MOHRE -- Awareness Guide for New Employers",
+    "source_url": "https://www.mohre.gov.ae/assets/download/3221206e/Awareness%20Guide%20for%20New%20Employers%20Companies%20-%20EN_639011571513592816.pdf.aspx"
+  },
+  {
+    "id": "l089",
+    "topic": "تصنيف المنشآت",
+    "article_ref": "المادة 2 -- Cabinet Resolution No. 1 of 2022",
+    "text": "تُصنف المنشآت الخاضعة لقانون تنظيم علاقات العمل وفق معايير تشمل النشاط الاقتصادي وعدد العاملين ومدى الالتزام بالتشريعات ذات الصلة ودعم أهداف التوطين والتدريب وتنمية المهارات. ويترتب على تصنيف المنشأة بعض المزايا والإجراءات التنظيمية وفق الفئة التي تنتمي إليها.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l090",
+    "topic": "تصنيف العمال حسب المهارة",
+    "article_ref": "المادة 3 -- Cabinet Resolution No. 1 of 2022",
+    "text": "يتم تصنيف العمال الخاضعين لقانون تنظيم علاقات العمل وفق معايير تشمل المهارة والمؤهلات التعليمية والإنتاجية والمستوى المهني أو مستوى الأجر والحالة المتعلقة بالإقامة، وفق القواعد والقرارات المعمول بها.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l091",
+    "topic": "تشغيل الأحداث",
+    "article_ref": "المادة 4 -- Cabinet Resolution No. 1 of 2022",
+    "text": "تحدد اللائحة التنفيذية شروط وإجراءات تشغيل الأحداث، بما في ذلك السن المسموح به وطبيعة العمل وساعات العمل والوثائق والتصاريح المطلوبة، مع مراعاة الحماية الخاصة المقررة لهذه الفئة.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l092",
+    "topic": "أنماط العمل المختلفة",
+    "article_ref": "المادة 5 -- Cabinet Resolution No. 1 of 2022",
+    "text": "تشمل أنماط العمل التي ينظمها القانون العمل بدوام كامل ودوام جزئي والعمل المؤقت والعمل المرن وغيرها من الأنماط التي تحددها اللائحة. ويحدد عقد العمل وتصريح العمل طبيعة العلاقة وحقوق والتزامات الأطراف وفق النمط المعتمد.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l093",
+    "topic": "شروط إصدار تصريح العمل",
+    "article_ref": "المادة 7 -- Cabinet Resolution No. 1 of 2022",
+    "text": "يخضع إصدار وتجديد وإلغاء تصاريح العمل لشروط وإجراءات وضوابط تحددها وزارة الموارد البشرية والتوطين واللائحة التنفيذية، ويجب استيفاء المتطلبات المتعلقة بالعامل والمنشأة ونوع تصريح العمل قبل مباشرة العمل.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l094",
+    "topic": "العمل الحر Freelance",
+    "article_ref": "أحكام العمل الحر -- Cabinet Resolution No. 1 of 2022",
+    "text": "ينظم القانون واللائحة التنفيذية بعض أنماط العمل الحر التي تسمح للشخص بتقديم خدماته بصورة مستقلة وفق تصريح العمل المناسب، دون أن يكون مرتبطاً بعقد عمل تقليدي بدوام كامل مع صاحب عمل.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l095",
+    "topic": "وكالات التوظيف الخاصة",
+    "article_ref": "أحكام وكالات التوظيف -- Cabinet Resolution No. 1 of 2022",
+    "text": "تخضع وكالات التوظيف والوساطة في سوق العمل لترخيص وتنظيم وزارة الموارد البشرية والتوطين. ويجب عليها الالتزام بالضوابط والشروط المتعلقة باستقدام العمال والتوسط في التوظيف وحماية حقوق أطراف علاقة العمل.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l096",
+    "topic": "عقد العمل",
+    "article_ref": "المادة 10 -- Cabinet Resolution No. 1 of 2022",
+    "text": "يجب أن يكون عقد العمل وفق النموذج المعتمد وأن يتضمن البيانات والشروط الأساسية للعلاقة التعاقدية، بما في ذلك بيانات الأطراف وطبيعة العمل والأجر ومدة العقد وساعات العمل وغيرها من البيانات التي تتطلبها التشريعات.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l097",
+    "topic": "إصدار تصريح عمل جديد بعد إنهاء العقد أثناء التجربة",
+    "article_ref": "المادة 11 -- Cabinet Resolution No. 1 of 2022",
+    "text": "توجد قواعد خاصة بإصدار تصريح عمل جديد للعامل الذي انتهت علاقته التعاقدية خلال فترة التجربة، وتختلف الإجراءات بحسب سبب انتهاء العلاقة وما إذا كان العامل سينتقل إلى منشأة أخرى أو سيغادر الدولة، وفق الشروط والاستثناءات المحددة في اللائحة.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l098",
+    "topic": "قواعد شرط عدم المنافسة",
+    "article_ref": "المادة 12 -- Cabinet Resolution No. 1 of 2022",
+    "text": "يجب عند الاتفاق على شرط عدم المنافسة مراعاة تحديد مدة الشرط ومكان تطبيقه ونوع العمل الذي يمنع العامل من ممارسته، وأن يكون القيد بالقدر الضروري لحماية المصالح التجارية المشروعة لصاحب العمل.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l099",
+    "topic": "تغيير العامل إلى وظيفة أخرى",
+    "article_ref": "المادة 13 -- Cabinet Resolution No. 1 of 2022",
+    "text": "لا يجوز تكليف العامل بعمل يختلف اختلافاً جوهرياً عن العمل المتفق عليه إلا وفق الحالات والإجراءات التي يسمح بها القانون واللائحة التنفيذية، مع مراعاة طبيعة العمل وحقوق العامل.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l100",
+    "topic": "تنظيم مكان العمل",
+    "article_ref": "المادة 14 -- Cabinet Resolution No. 1 of 2022",
+    "text": "يجوز لصاحب العمل تنظيم طريقة أداء العمل وتوزيع المهام وساعات العمل وفقاً لعقد العمل والقانون، مع الالتزام بالحدود القانونية المتعلقة بساعات العمل والراحة والسلامة وعدم التمييز.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l101",
+    "topic": "حساب ساعات العمل للعامل بدوام جزئي",
+    "article_ref": "المادة 20 -- Cabinet Resolution No. 1 of 2022",
+    "text": "تنظم اللائحة التنفيذية كيفية احتساب ساعات العمل والإجازات وبعض الحقوق للعامل الذي يعمل بنظام الدوام الجزئي، بما يتناسب مع عدد ساعات أو أيام العمل الفعلية وشروط العقد.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l102",
+    "topic": "ترحيل الإجازة السنوية",
+    "article_ref": "المادة 19 -- Cabinet Resolution No. 1 of 2022",
+    "text": "يجوز للعامل، وفق موافقة صاحب العمل واللوائح التنظيمية المعمول بها في المنشأة، ترحيل رصيد الإجازة السنوية أو جزء منه إلى السنة التالية وفق الشروط القانونية.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l103",
+    "topic": "منع حرمان العامل من الإجازة لأكثر من سنتين",
+    "article_ref": "المادة 29 -- Federal Decree-Law No. 33 of 2021",
+    "text": "لا يجوز لصاحب العمل منع العامل من الاستفادة من إجازته السنوية المستحقة لأكثر من سنتين، إلا إذا رغب العامل في ترحيلها أو الحصول على بدل نقدي عنها وفق اللوائح المعمول بها وما تحدده اللائحة التنفيذية.",
+    "source_name": "UAE Government / MOHRE",
+    "source_url": "https://u.ae/en/Help/FAQs/jobs"
+  },
+  {
+    "id": "l104",
+    "topic": "أجر الإجازة السنوية",
+    "article_ref": "المادة 29 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يستحق العامل أجر الإجازة السنوية وفق القواعد المحددة في القانون. وتوضح المنصة الرسمية للحكومة أن أجر الإجازة يشمل الأجر الأساسي والبدلات التي يحصل عليها العامل في شهر العمل المعتاد، وفق القواعد المطبقة.",
+    "source_name": "The Official Portal of the UAE Government",
+    "source_url": "https://u.ae/en/Help/FAQs/jobs"
+  },
+  {
+    "id": "l105",
+    "topic": "دفع أجر الإجازة قبل بدايتها",
+    "article_ref": "أحكام الإجازة السنوية -- UAE Government",
+    "text": "يتم دفع أجر العامل المستحق عن مدة الإجازة السنوية وفق الأحكام القانونية، وتوضح الإرشادات الرسمية أن العامل يتقاضى أجره المستحق قبل بدء الإجازة وفق النظام المعمول به.",
+    "source_name": "The Official Portal of the UAE Government",
+    "source_url": "https://u.ae/en/Help/FAQs/jobs"
+  },
+  {
+    "id": "l106",
+    "topic": "الإجازة السنوية عند انتهاء الخدمة",
+    "article_ref": "المادة 29 -- Federal Decree-Law No. 33 of 2021",
+    "text": "إذا انتهت علاقة العمل قبل استخدام العامل لرصيد إجازته السنوية المستحق، يحق له الحصول على البدل النقدي المقرر قانوناً عن الرصيد المستحق وفق قواعد احتساب الإجازة.",
+    "source_name": "MOHRE -- Labour Dispute Decisions",
+    "source_url": "https://backoffice.mohre.gov.ae/Mohre.Complaints.App/ComplaintReport/IssueMoveToCourtReportFD"
+  },
+  {
+    "id": "l107",
+    "topic": "عدم استحقاق أجر المرض بسبب سوء السلوك",
+    "article_ref": "المادة 21 -- Cabinet Resolution No. 1 of 2022",
+    "text": "توجد حالات محددة لا يستحق فيها العامل أجراً عن الإجازة المرضية إذا كان المرض أو الإصابة ناتجاً عن سلوك أو حالة تدخل ضمن الاستثناءات التي تحددها اللائحة التنفيذية، مع مراعاة إثبات الحالة وفق الإجراءات القانونية.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l108",
+    "topic": "الإجازات المختلفة",
+    "article_ref": "المادة 22 -- Cabinet Resolution No. 1 of 2022",
+    "text": "تنظم اللائحة التنفيذية أنواعاً مختلفة من الإجازات وحقوق العامل خلالها، بما في ذلك الإجازات المرضية والوالدية والحداد وغيرها من الإجازات التي يقررها القانون والتشريعات ذات الصلة.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l109",
+    "topic": "الرعاية الصحية والسلامة المهنية",
+    "article_ref": "المادة 23 -- Cabinet Resolution No. 1 of 2022",
+    "text": "يلتزم صاحب العمل باتخاذ التدابير المناسبة لحماية العمال من مخاطر العمل وتوفير الرعاية والإجراءات الصحية والسلامة المهنية المناسبة لطبيعة النشاط، مع تدريب العاملين على إجراءات الوقاية.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l110",
+    "topic": "إصابات العمل والإبلاغ عنها",
+    "article_ref": "المادة 24 -- Cabinet Resolution No. 1 of 2022",
+    "text": "عند وقوع إصابة عمل أو مرض مهني، يجب اتباع إجراءات الإبلاغ والتحقيق والتوثيق المحددة في التشريعات واللائحة التنفيذية، وتلتزم المنشأة بالتعاون مع الجهات المختصة وتوفير المستندات المطلوبة.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l111",
+    "topic": "الجزاءات التأديبية والإجراءات",
+    "article_ref": "المادة 25 -- Cabinet Resolution No. 1 of 2022",
+    "text": "عند اتخاذ إجراء تأديبي ضد العامل، يجب اتباع الإجراءات والضوابط المقررة قانوناً، بما في ذلك التحقيق في المخالفة وإثباتها وإبلاغ العامل بالجزاء وفق القواعد المعتمدة.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l112",
+    "topic": "إفلاس صاحب العمل وإنهاء العقد",
+    "article_ref": "المادة 26 -- Cabinet Resolution No. 1 of 2022",
+    "text": "إذا كان سبب إنهاء عقد العمل مرتبطاً بإفلاس صاحب العمل أو إعساره، تطبق الإجراءات والشروط الخاصة التي تحددها التشريعات واللائحة التنفيذية، مع مراعاة حقوق العامل والمستحقات المترتبة له.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l113",
+    "topic": "الخطر الجسيم في مكان العمل",
+    "article_ref": "المادة 27 -- Cabinet Resolution No. 1 of 2022",
+    "text": "عند وجود خطر جسيم يهدد سلامة العاملين أو صحتهم، يجب على صاحب العمل اتخاذ الإجراءات اللازمة للسيطرة على الخطر وحماية العمال وفق متطلبات السلامة والصحة المهنية والتعليمات الصادرة عن الجهات المختصة.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l114",
+    "topic": "انتقال العمال",
+    "article_ref": "المادة 28 -- Cabinet Resolution No. 1 of 2022",
+    "text": "تنظم اللائحة إجراءات انتقال العامل بين المنشآت، بما في ذلك المستندات المطلوبة وتصريح العمل والإجراءات المتعلقة بإنهاء العلاقة السابقة وبدء العلاقة الجديدة.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l115",
+    "topic": "الإبلاغ عن ترك العمل",
+    "article_ref": "المادة 29 -- Cabinet Resolution No. 1 of 2022",
+    "text": "توجد إجراءات محددة للإبلاغ عن حالات انقطاع العامل عن العمل أو تركه للعمل دون اتباع الإجراءات القانونية. ويجب على صاحب العمل اتباع القنوات والإجراءات الرسمية قبل ترتيب الآثار القانونية على العامل.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l116",
+    "topic": "خصم المستحقات من مكافأة نهاية الخدمة",
+    "article_ref": "المادة 30 -- Cabinet Resolution No. 1 of 2022",
+    "text": "تخضع أي خصومات من مكافأة نهاية الخدمة للضوابط القانونية المحددة في التشريعات واللائحة التنفيذية، ولا يجوز إجراء خصم من المستحقات النهائية للعامل إلا في الحالات التي يسمح بها القانون.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l117",
+    "topic": "إجراءات التفتيش العمالي",
+    "article_ref": "المادة 31 -- Cabinet Resolution No. 1 of 2022",
+    "text": "تخضع المنشآت الخاضعة للقانون لإجراءات التفتيش والرقابة العمالية وفق الصلاحيات المقررة لوزارة الموارد البشرية والتوطين. ويجوز للجهات المختصة التحقق من الالتزام بعقود العمل والأجور وساعات العمل والسلامة وغيرها من المتطلبات القانونية.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l118",
+    "topic": "المخالفات والعقوبات الإدارية",
+    "article_ref": "المادة 32 -- Cabinet Resolution No. 1 of 2022",
+    "text": "يمكن فرض جزاءات أو تدابير إدارية على المنشآت المخالفة لأحكام قانون تنظيم علاقات العمل ولائحته التنفيذية والقرارات المنفذة له، وفق نوع المخالفة ودرجة خطورتها والإجراءات المقررة قانوناً.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l119",
+    "topic": "التظلم من قرارات وزارة الموارد البشرية",
+    "article_ref": "المادة 36 -- Cabinet Resolution No. 1 of 2022",
+    "text": "تحدد اللائحة التنفيذية إجراءات التظلم من بعض القرارات الصادرة عن وزارة الموارد البشرية والتوطين، بما في ذلك المدد والإجراءات والمستندات المطلوبة والجهة المختصة بالنظر في التظلم.",
+    "source_name": "MOHRE -- Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l120",
+    "topic": "منازعات العمل الفردية",
+    "article_ref": "أحكام منازعات العمل الفردية -- Federal Decree-Law No. 33 of 2021",
+    "text": "تنظم التشريعات إجراءات تسوية المنازعات الفردية بين العامل وصاحب العمل، ويجوز للجهة المختصة بوزارة الموارد البشرية والتوطين اتخاذ إجراءات التسوية قبل إحالة النزاع إلى الجهة القضائية المختصة وفق الحالات والإجراءات المقررة.",
+    "source_name": "MOHRE / UAE Labour Law",
+    "source_url": "https://www.mohre.gov.ae/assets/download/e82f7872/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments_638990571068264034.pdf.aspx"
+  },
+  {
+    "id": "l121",
+    "topic": "استقالة العامل دون إشعار بسبب إخلال صاحب العمل",
+    "article_ref": "المادة 45 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز للعامل ترك العمل دون إشعار مع احتفاظه بحقوقه عند انتهاء الخدمة إذا أخل صاحب العمل بالتزاماته المنصوص عليها في عقد العمل أو القانون أو القرارات التنفيذية، بشرط إخطار وزارة الموارد البشرية والتوطين قبل 14 يوم عمل من تاريخ ترك العمل وعدم قيام صاحب العمل بتصحيح الإخلال وإزالة آثاره رغم إخطار الوزارة له.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l122",
+    "topic": "استقالة العامل دون إشعار بسبب الاعتداء أو التحرش",
+    "article_ref": "المادة 45 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز للعامل ترك العمل دون إشعار إذا ثبت أن صاحب العمل أو ممثله القانوني اعتدى على العامل أو مارس العنف أو التحرش ضده في مكان العمل، بشرط إبلاغ الجهات المختصة ووزارة الموارد البشرية والتوطين خلال 5 أيام عمل من تاريخ تمكن العامل من الإبلاغ.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l123",
+    "topic": "استقالة العامل بسبب الخطر الجسيم",
+    "article_ref": "المادة 45 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز للعامل ترك العمل دون إشعار إذا كان هناك خطر جسيم في مكان العمل يهدد سلامته أو صحته وكان صاحب العمل على علم بالخطر ولم يتخذ الإجراءات التي تدل على إزالته، وفق القواعد المحددة في اللائحة التنفيذية.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l124",
+    "topic": "رفض تغيير طبيعة العمل دون موافقة العامل",
+    "article_ref": "المادة 45 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز للعامل ترك العمل دون إشعار إذا طلب منه صاحب العمل أداء عمل يختلف اختلافاً جوهرياً عن العمل المتفق عليه في عقد العمل دون الحصول على موافقة العامل الكتابية، باستثناء حالات الضرورة المسموح بها قانوناً.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l125",
+    "topic": "إنهاء الخدمة بسبب عدم اللياقة الصحية",
+    "article_ref": "المادة 46 -- Federal Decree-Law No. 33 of 2021",
+    "text": "لا يجوز لصاحب العمل إنهاء خدمة العامل بسبب عدم لياقته الصحية قبل استنفاد العامل للإجازات المستحقة له قانوناً. وأي اتفاق يخالف هذا الحكم يكون باطلاً وفقاً للقانون.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l126",
+    "topic": "استمرار عقد العمل عند تغيير صاحب العمل أو الوضع القانوني",
+    "article_ref": "المادة 48 -- Federal Decree-Law No. 33 of 2021",
+    "text": "لا ينتهي عقد العمل لمجرد تغيير الشكل القانوني للمنشأة أو انتقال ملكية المنشأة أو إدارتها وفق الحالات التي يحددها القانون. وتستمر حقوق والتزامات أطراف علاقة العمل وفق الأحكام القانونية المطبقة.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l127",
+    "topic": "انتقال العامل بعد انتهاء عقد العمل",
+    "article_ref": "المادة 49 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز للعامل الانتقال إلى صاحب عمل آخر بعد انتهاء عقد العمل وفق الشروط والإجراءات التي تحددها التشريعات واللوائح التنفيذية المعمول بها في دولة الإمارات.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l128",
+    "topic": "الغياب غير المشروع عن العمل",
+    "article_ref": "المادة 50 -- Federal Decree-Law No. 33 of 2021",
+    "text": "إذا انقطع العامل عن العمل بصورة غير مشروعة قبل انتهاء عقده أو دون اتباع الإجراءات القانونية، فقد تترتب آثار قانونية تتعلق بتصريح العمل والانتقال إلى صاحب عمل آخر وفق الحالات والضوابط المحددة في القانون واللائحة التنفيذية.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l129",
+    "topic": "مكافأة نهاية الخدمة للعامل بدوام كامل",
+    "article_ref": "المادة 51 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يستحق العامل الأجنبي الذي يعمل بدوام كامل مكافأة نهاية الخدمة وفق مدة خدمته وأحكام القانون، وتحسب المكافأة على أساس الأجر الأساسي وبالطريقة التي يحددها القانون.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l130",
+    "topic": "حساب مكافأة نهاية الخدمة عن كسور السنة",
+    "article_ref": "المادة 51 -- Federal Decree-Law No. 33 of 2021",
+    "text": "تحتسب مكافأة نهاية الخدمة عن أجزاء السنة التي قضاها العامل في الخدمة بعد استيفاء الحد الأدنى المطلوب لاستحقاق المكافأة، وذلك وفق النسبة الزمنية التي يحددها القانون.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l131",
+    "topic": "مكافأة نهاية الخدمة للعاملين بأنماط العمل الأخرى",
+    "article_ref": "المادة 52 -- Federal Decree-Law No. 33 of 2021",
+    "text": "تنظم اللائحة التنفيذية طريقة احتساب مستحقات نهاية الخدمة للعاملين وفق أنماط العمل المختلفة مثل الدوام الجزئي أو أنماط العمل الأخرى، بما يتناسب مع نمط العمل ومدة الخدمة والأجر المستحق.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l132",
+    "topic": "دفع مستحقات العامل عند انتهاء العقد",
+    "article_ref": "المادة 53 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يلتزم صاحب العمل بدفع أجر العامل وجميع مستحقاته خلال المدة المحددة قانوناً بعد انتهاء عقد العمل، وتشمل المستحقات التي يستحقها العامل وفق القانون والعقد ومكافأة نهاية الخدمة والبدلات أو التعويضات المستحقة.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l133",
+    "topic": "المطالبة بالمستحقات بعد انتهاء الخدمة",
+    "article_ref": "المادة 54 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجوز للعامل المطالبة بحقوقه ومستحقاته الناشئة عن علاقة العمل وفق إجراءات تسوية المنازعات العمالية والجهات المختصة، حتى بعد انتهاء علاقة العمل، مع مراعاة المدد القانونية المقررة.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l134",
+    "topic": "الإعفاء من الرسوم القضائية في المنازعات العمالية",
+    "article_ref": "المادة 55 -- Federal Decree-Law No. 33 of 2021",
+    "text": "تعفى الدعاوى العمالية التي تدخل ضمن الحدود والشروط التي يحددها القانون من الرسوم القضائية للعامل أو ورثته، وفق القيمة والإجراءات المنصوص عليها في التشريعات النافذة.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l135",
+    "topic": "المنازعات العمالية الجماعية",
+    "article_ref": "المادة 56 -- Federal Decree-Law No. 33 of 2021",
+    "text": "تنظم التشريعات إجراءات التعامل مع المنازعات العمالية الجماعية التي تنشأ بين مجموعة من العمال وصاحب العمل، وتحدد الجهات والإجراءات المختصة بمحاولة تسوية النزاع.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l136",
+    "topic": "التفتيش على المنشآت",
+    "article_ref": "المادة 57 -- Federal Decree-Law No. 33 of 2021",
+    "text": "تتولى وزارة الموارد البشرية والتوطين أعمال التفتيش والرقابة على المنشآت للتحقق من الالتزام بأحكام قانون تنظيم علاقات العمل والقرارات واللوائح التنفيذية، بما في ذلك التحقق من ظروف العمل والسجلات والوثائق المطلوبة.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l137",
+    "topic": "الاحتفاظ بسجلات العمل",
+    "article_ref": "أحكام التفتيش والسجلات -- Federal Decree-Law No. 33 of 2021",
+    "text": "يجب على المنشآت الاحتفاظ بالسجلات والوثائق المتعلقة بعلاقة العمل والعاملين وفق المدد والإجراءات التي تحددها وزارة الموارد البشرية والتوطين واللوائح المعمول بها، وتمكين الجهات المختصة من الاطلاع عليها عند التفتيش.",
+    "source_name": "MOHRE / Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l138",
+    "topic": "العقوبات على مخالفة قانون العمل",
+    "article_ref": "المواد 58 إلى 64 -- Federal Decree-Law No. 33 of 2021",
+    "text": "تتضمن التشريعات أحكاماً للعقوبات على بعض المخالفات المتعلقة بعلاقة العمل، وتشمل الحالات التي يرتكب فيها صاحب العمل أو العامل أفعالاً مخالفة لأحكام القانون أو اللوائح أو القرارات المنفذة له.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l139",
+    "topic": "لغة المستندات والإجراءات العمالية",
+    "article_ref": "المادة 66 -- Federal Decree-Law No. 33 of 2021",
+    "text": "تعتمد اللغة العربية في السجلات والملفات والعقود والقرارات التي تقدم إلى الجهات المختصة وفق الأحكام القانونية، ويجوز استخدام لغة أخرى إلى جانب العربية عند الحاجة وفق القواعد المقررة.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l140",
+    "topic": "حساب المدد والمواعيد القانونية",
+    "article_ref": "المادة 67 -- Federal Decree-Law No. 33 of 2021",
+    "text": "تحدد التشريعات طريقة احتساب المدد والمواعيد المرتبطة بتطبيق قانون تنظيم علاقات العمل، بما في ذلك المدد المحددة للإشعارات والإجراءات والمطالبات، وفق القواعد القانونية الخاصة بحساب المواعيد.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l141",
+    "topic": "توفي العامل أثناء علاقة العمل",
+    "article_ref": "أحكام مستحقات العامل عند الوفاة -- Federal Decree-Law No. 33 of 2021",
+    "text": "عند وفاة العامل أثناء علاقة العمل، تحدد التشريعات طريقة التعامل مع المستحقات المالية وحقوق نهاية الخدمة والحقوق الأخرى المستحقة للعامل، وكيفية صرفها للمستحقين وفق الإجراءات القانونية.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/3e7c317/Federal-Decree-Law-No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments_638990571068264034.pdf.aspx"
+  },
+  {
+    "id": "l142",
+    "topic": "التزامات العامل تجاه صاحب العمل",
+    "article_ref": "المادة 16 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يلتزم العامل بأداء العمل وفق التعليمات المشروعة لصاحب العمل، والمحافظة على أدوات العمل وممتلكات المنشأة، والالتزام بمتطلبات السلامة والمحافظة على سرية المعلومات والبيانات والأسرار التجارية التي يطلع عليها بحكم عمله.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/3e7c317/Federal-Decree-Law-No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments_638990571068264034.pdf.aspx"
+  },
+  {
+    "id": "l143",
+    "topic": "مكافحة العمل الجبري",
+    "article_ref": "المادة 14 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يحظر استخدام أي وسيلة تؤدي إلى إجبار العامل على العمل رغماً عنه أو تهديده أو استغلاله بصورة تخالف القانون، وتوفر التشريعات حماية للعامل من العمل الجبري والاتجار بالبشر والاستغلال المرتبط بعلاقة العمل.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/3e7c317/Federal-Decree-Law-No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments_638990571068264034.pdf.aspx"
+  },
+  {
+    "id": "l144",
+    "topic": "حظر التمييز والتحرش في العمل",
+    "article_ref": "المادة 4 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يحظر التمييز في العمل على أساس العرق أو اللون أو الجنس أو الدين أو الأصل الوطني أو الأصل الاجتماعي أو الإعاقة، كما تحظر التشريعات التحرش والتنمر والعنف اللفظي أو الجسدي أو النفسي ضد العامل.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/3e7c317/Federal-Decree-Law-No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments_638990571068264034.pdf.aspx"
+  },
+  {
+    "id": "l145",
+    "topic": "المساواة في الأجر بين الرجل والمرأة",
+    "article_ref": "المادة 4 -- Federal Decree-Law No. 33 of 2021",
+    "text": "يقرر قانون تنظيم علاقات العمل مبدأ المساواة في الأجر بين النساء والرجال عن العمل ذي القيمة المتساوية، وفق الأحكام والضوابط المقررة في التشريعات النافذة.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/3e7c317/Federal-Decree-Law-No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments_638990571068264034.pdf.aspx"
+  },
+  {
+    "id": "l146",
+    "topic": "حظر العمل الجبري والاحتفاظ غير المشروع بالوثائق",
+    "article_ref": "أحكام حماية العامل -- Federal Decree-Law No. 33 of 2021",
+    "text": "لا يجوز استخدام وسائل الإكراه أو التهديد لإجبار العامل على العمل أو منعه من ممارسة حقوقه القانونية، وتطبق أحكام حماية العامل وفق قانون العمل والتشريعات الأخرى ذات الصلة.",
+    "source_name": "MOHRE",
+    "source_url": "https://www.mohre.gov.ae/"
+  },
+  {
+    "id": "l147",
+    "topic": "سرية أسرار العمل",
+    "article_ref": "التزامات العامل -- Federal Decree-Law No. 33 of 2021",
+    "text": "يلتزم العامل بالمحافظة على أسرار العمل والمعلومات والبيانات التي يطلع عليها بحكم وظيفته، ويستمر الالتزام بالسرية في الحالات التي يقرر فيها القانون أو العقد استمرار هذه الحماية بعد انتهاء علاقة العمل.",
+    "source_name": "MOHRE -- Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/3e7c317/Federal-Decree-Law-No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments_638990571068264034.pdf.aspx"
+  },
+  {
+    "id": "l148",
+    "topic": "إعادة العامل بعد الإجازة",
+    "article_ref": "أحكام الإجازات -- Federal Decree-Law No. 33 of 2021",
+    "text": "يعود العامل إلى عمله بعد انتهاء الإجازة وفق تاريخ العودة المحدد وبما يتوافق مع نوع الإجازة والموافقة الصادرة عليها، وتطبق القواعد الخاصة بحالات الغياب بعد انتهاء الإجازة وفق القانون.",
+    "source_name": "Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/3e7c317/Federal-Decree-Law-No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments_638990571068264034.pdf.aspx"
+  },
+  {
+    "id": "l149",
+    "topic": "استمرار التأمين الصحي والحقوق أثناء الإجازات",
+    "article_ref": "أحكام علاقة العمل والإجازات",
+    "text": "تحدد حقوق العامل أثناء الإجازات والتغطية التأمينية وفق نوع الإجازة والتشريعات الاتحادية والمحلية المطبقة على العامل والمنشأة، ولا ينبغي افتراض أن جميع أنواع الإجازات لها الأثر المالي نفسه.",
+    "source_name": "UAE Government / MOHRE",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector"
+  },
+  {
+    "id": "l150",
+    "topic": "تطبيق قانون العمل في القطاع الخاص",
+    "article_ref": "Federal Decree-Law No. 33 of 2021",
+    "text": "Federal Decree-Law No. 33 of 2021 ينظم علاقات العمل في القطاع الخاص في دولة الإمارات، مع وجود أنظمة خاصة لبعض الفئات والقطاعات والمناطق الحرة. لذلك يجب تحديد طبيعة جهة العمل والقطاع والمنطقة قبل تطبيق حكم قانوني محدد.",
+    "source_name": "The Official Portal of the UAE Government",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector"
+  },
+  {
+    "id": "l151",
+    "topic": "الرعاية والسلامة والمهنية",
+    "article_ref": "Article 37",
+    "text": "يلتزم صاحب العمل باتخاذ التدابير اللازمة لحماية العاملين وضمان سلامتهم وصحتهم المهنية، وفقاً للتشريعات واللوائح والقرارات المعمول بها.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l152",
+    "topic": "التعويض عن إصابات العمل والأمراض المهنية",
+    "article_ref": "Article 38",
+    "text": "في حال تعرض العامل لإصابة عمل أو مرض مهني، يلتزم صاحب العمل بتوفير العلاج وفقاً للتشريعات المعمول بها، وتستحق التعويضات والمستحقات القانونية في الحالات المحددة بموجب القانون.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l153",
+    "topic": "حالات عدم استحقاق العامل لتعويض إصابة العمل",
+    "article_ref": "Article 39",
+    "text": "لا يستحق العامل تعويض إصابة العمل في الحالات التي يحددها القانون، بما في ذلك الحالات التي يثبت فيها تعمد العامل إحداث الإصابة أو تحقق إحدى الحالات القانونية الأخرى المنصوص عليها.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l154",
+    "topic": "الجزاءات التأديبية",
+    "article_ref": "Article 40",
+    "text": "يجوز لصاحب العمل توقيع الجزاءات التأديبية المقررة قانوناً عند مخالفة العامل لالتزاماته، مع مراعاة الإجراءات والضمانات المنصوص عليها في القانون واللائحة التنفيذية.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l155",
+    "topic": "التعليق المؤقت عن العمل",
+    "article_ref": "Article 41",
+    "text": "يجوز في الحالات التي يحددها القانون تعليق العامل مؤقتاً عن العمل، وتحدد التشريعات المعمول بها شروط التعليق ومدته وآثاره على الأجر والمستحقات.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l156",
+    "topic": "حالات انتهاء عقد العمل",
+    "article_ref": "Article 42",
+    "text": "ينتهي عقد العمل في الحالات التي يحددها القانون، ومنها انتهاء مدة العقد وعدم تجديده، أو اتفاق الطرفين على إنهائه، أو الحالات الأخرى المنصوص عليها قانوناً.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l157",
+    "topic": "إخطار إنهاء عقد العمل",
+    "article_ref": "Article 43",
+    "text": "يجوز لأي من طرفي عقد العمل إنهاء العقد لسبب مشروع، شريطة توجيه إخطار كتابي إلى الطرف الآخر والالتزام بمدة الإخطار المتفق عليها في العقد، على ألا تقل عن ثلاثين يوماً ولا تزيد على تسعين يوماً.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l158",
+    "topic": "الفصل دون إخطار",
+    "article_ref": "Article 44",
+    "text": "يجوز لصاحب العمل فصل العامل دون إخطار في الحالات المحددة قانوناً، وبعد إجراء تحقيق كتابي وإصدار قرار كتابي ومسبب وفقاً للضوابط القانونية.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l159",
+    "topic": "ترك العامل العمل دون إخطار",
+    "article_ref": "Article 45",
+    "text": "يجوز للعامل ترك العمل دون إخطار في الحالات المحددة قانوناً، ومنها إخلال صاحب العمل بالتزاماته، أو تعرض العامل للاعتداء أو العنف أو التحرش، أو وجود خطر جسيم في مكان العمل، أو تكليف العامل بعمل مختلف جوهرياً دون موافقته الكتابية في الحالات التي يشترط فيها ذلك.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l160",
+    "topic": "إنهاء الخدمة بسبب عدم اللياقة الصحية",
+    "article_ref": "Article 46",
+    "text": "لا يجوز لصاحب العمل إنهاء خدمة العامل بسبب عدم لياقته الصحية قبل تمكينه من استخدام رصيد إجازته المستحقة، وفقاً للأحكام والإجراءات القانونية المعمول بها.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l161",
+    "topic": "الفصل غير المشروع",
+    "article_ref": "Article 47",
+    "text": "يُعد إنهاء خدمة العامل تعسفياً إذا ثبت أن سبب الإنهاء كان تقديم العامل شكوى جدية إلى الوزارة أو رفع دعوى قضائية صحيحة ضد صاحب العمل، وذلك وفقاً للشروط والأحكام المنصوص عليها في القانون.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l162",
+    "topic": "استمرارية عقود العمل",
+    "article_ref": "Article 48",
+    "text": "لا يؤدي تغيير الشكل القانوني للمنشأة أو ملكيتها أو اندماجها أو انتقالها، في الحالات التي يحددها القانون، إلى إنهاء عقود العمل أو المساس بحقوق العمال المستحقة قانوناً.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l163",
+    "topic": "انتقال العامل بعد انتهاء العقد",
+    "article_ref": "Article 49",
+    "text": "يجوز للعامل بعد انتهاء عقد العمل الانتقال إلى صاحب عمل آخر وفقاً للشروط والإجراءات المنظمة لإصدار تصريح العمل الجديد والقواعد المعمول بها.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l164",
+    "topic": "الغياب غير المشروع عن العمل",
+    "article_ref": "Article 50",
+    "text": "إذا ترك العامل الأجنبي العمل دون سبب مشروع قبل انتهاء العقد، فقد يخضع للقيود القانونية المتعلقة بإصدار تصريح عمل جديد، وذلك وفقاً للشروط والاستثناءات والإجراءات التي تحددها الوزارة واللوائح التنفيذية.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l165",
+    "topic": "مكافأة نهاية الخدمة للعامل بدوام كامل",
+    "article_ref": "Article 51",
+    "text": "يستحق العامل الأجنبي بدوام كامل الذي أكمل سنة أو أكثر من الخدمة المستمرة مكافأة نهاية الخدمة عند انتهاء علاقة العمل، وتحسب المكافأة على أساس الأجر الأساسي ووفقاً لمدة الخدمة والأحكام المنصوص عليها في القانون.",
+    "source_name": "UAE Government - End of service benefits",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/end-of-service-benefits-for-employees-in-the-private-sector"
+  },
+  {
+    "id": "l166",
+    "topic": "مكافأة نهاية الخدمة لأنماط العمل الأخرى",
+    "article_ref": "Article 52",
+    "text": "تُحسب مكافأة نهاية الخدمة للعاملين وفق أنماط العمل المختلفة، بما في ذلك العمل بدوام جزئي، وفقاً لقواعد ونسب وآليات الحساب المنصوص عليها في القانون واللائحة التنفيذية.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021 and Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/end-of-service-benefits-for-employees-in-the-private-sector"
+  },
+  {
+    "id": "l167",
+    "topic": "سداد مستحقات العامل عند انتهاء العقد",
+    "article_ref": "Article 53",
+    "text": "يلتزم صاحب العمل بسداد أجور العامل ومستحقاته ومكافأة نهاية الخدمة المستحقة له عند انتهاء علاقة العمل، وفق المدة والإجراءات المنصوص عليها في القانون.",
+    "source_name": "UAE Government - End of service benefits",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/end-of-service-benefits-for-employees-in-the-private-sector"
+  },
+  {
+    "id": "l168",
+    "topic": "المنازعات العمالية الفردية",
+    "article_ref": "Article 54",
+    "text": "تُحال المنازعات الفردية بين العامل وصاحب العمل إلى وزارة الموارد البشرية والتوطين وفق الإجراءات القانونية، ويجوز إحالة النزاع إلى الجهة القضائية المختصة في الحالات التي يحددها القانون.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector"
+  },
+  {
+    "id": "l169",
+    "topic": "الإعفاء من الرسوم القضائية",
+    "article_ref": "Article 55",
+    "text": "تُعفى الدعاوى العمالية التي يرفعها العمال أو ورثتهم، في حدود الأحكام المنصوص عليها في القانون، من الرسوم القضائية المتعلقة بالمطالبات العمالية.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l170",
+    "topic": "المنازعات العمالية الجماعية",
+    "article_ref": "Article 56",
+    "text": "تُعالج المنازعات العمالية الجماعية وفق الإجراءات والآليات التي تحددها الوزارة والقانون واللائحة التنفيذية بهدف تسوية النزاع وفق الأحكام القانونية.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l171",
+    "topic": "تفتيش العمل",
+    "article_ref": "Article 57",
+    "text": "تتولى الجهات المختصة التفتيش على المنشآت للتأكد من الالتزام بأحكام قانون تنظيم علاقات العمل واللوائح والقرارات المنفذة له، وعلى المنشآت والعاملين التعاون مع المفتشين وفقاً للقانون.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l172",
+    "topic": "القواعد العامة للعقوبات",
+    "article_ref": "Article 58",
+    "text": "لا تمنع العقوبات المنصوص عليها في قانون تنظيم علاقات العمل من تطبيق أي عقوبة أشد ينص عليها قانون آخر في الحالات التي تستوجب ذلك.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l173",
+    "topic": "المعلومات الكاذبة وعرقلة أعمال الجهات المختصة",
+    "article_ref": "Article 59",
+    "text": "يعاقب القانون على تقديم معلومات أو مستندات غير صحيحة في بعض الإجراءات المتعلقة بالعمل، وكذلك عرقلة أعمال الجهات المختصة أو إفشاء الأسرار الرسمية في الحالات المحددة قانوناً.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l174",
+    "topic": "مخالفات التوظيف",
+    "article_ref": "Article 60",
+    "text": "تفرض غرامات على عدد من المخالفات المتعلقة بتشغيل العمال بالمخالفة للقانون، واستخدام تصاريح العمل بصورة غير مشروعة، وبعض المخالفات المتعلقة بتشغيل الأحداث أو ممارسة النشاط بالمخالفة للأحكام القانونية.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l175",
+    "topic": "إساءة استخدام الأنظمة الإلكترونية للوزارة",
+    "article_ref": "Article 61",
+    "text": "يعاقب القانون على إساءة استخدام الصلاحيات أو الأنظمة الإلكترونية التابعة للوزارة أو تمكين الغير من استخدامها بصورة غير مشروعة، وفقاً للحالات والعقوبات المحددة في القانون.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l176",
+    "topic": "الحد الأقصى لإجمالي غرامات صاحب العمل",
+    "article_ref": "Article 62",
+    "text": "تحدد المادة 62 قواعد احتساب الغرامات المرتبطة بعدد العمال محل المخالفة، مع وضع حد أقصى لإجمالي الغرامات وفقاً للأحكام القانونية.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l177",
+    "topic": "المخالفات الأخرى",
+    "article_ref": "Article 63",
+    "text": "يعاقب على مخالفة الأحكام الأخرى الواردة في القانون أو اللوائح أو القرارات المنفذة له، في الحالات التي لا توجد فيها عقوبة خاصة، بالغرامة المقررة في المادة 63.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l178",
+    "topic": "تكرار المخالفات",
+    "article_ref": "Article 64",
+    "text": "في حال تكرار بعض المخالفات خلال المدة المحددة قانوناً، يجوز تشديد العقوبة وفقاً للأحكام والضوابط المنصوص عليها في المادة 64.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l179",
+    "topic": "الأحكام الختامية",
+    "article_ref": "Article 65",
+    "text": "تتضمن الأحكام الختامية القواعد المتعلقة بتطبيق القانون واستمرار بعض الحقوق والالتزامات والإجراءات الانتقالية وفقاً لما تحدده أحكام القانون.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l180",
+    "topic": "اللغة المعتمدة",
+    "article_ref": "Article 66",
+    "text": "تكون اللغة العربية هي اللغة المعتمدة في تطبيق أحكام القانون والمستندات الرسمية ذات الصلة، وفقاً لما تحدده التشريعات المعمول بها.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l181",
+    "topic": "حساب المدد والتواريخ",
+    "article_ref": "Article 67",
+    "text": "تُحسب المدد والمواعيد والتواريخ المتعلقة بتطبيق أحكام القانون وفقاً للقواعد المحددة في المادة 67 والتشريعات واللوائح ذات الصلة.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l182",
+    "topic": "توفيق الأوضاع",
+    "article_ref": "Article 68",
+    "text": "تلتزم الجهات والأشخاص الخاضعون للقانون بتوفيق أوضاعهم بما يتوافق مع أحكام القانون واللوائح والقرارات المنفذة له وفقاً للمهل والشروط المحددة قانوناً.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l183",
+    "topic": "التظلم من قرارات الوزارة",
+    "article_ref": "Article 69",
+    "text": "يجوز للأشخاص ذوي المصلحة التظلم من بعض قرارات الوزارة وفقاً للشروط والمواعيد والإجراءات التي يحددها القانون.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l184",
+    "topic": "اختصاصات مجلس الوزراء",
+    "article_ref": "Article 70",
+    "text": "يمارس مجلس الوزراء الاختصاصات والصلاحيات المحددة له بموجب القانون، بما في ذلك اعتماد بعض القواعد واللوائح والقرارات اللازمة لتنفيذ أحكامه.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l185",
+    "topic": "اختصاصات الوزارة",
+    "article_ref": "Article 71",
+    "text": "تتولى وزارة الموارد البشرية والتوطين الاختصاصات والصلاحيات اللازمة لتنفيذ قانون تنظيم علاقات العمل والإشراف على تطبيق أحكامه وفقاً للتشريعات المعمول بها.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l186",
+    "topic": "اللائحة التنفيذية",
+    "article_ref": "Article 72",
+    "text": "تصدر اللائحة التنفيذية للقانون لتحديد التفاصيل والشروط والإجراءات والضوابط اللازمة لتنفيذ أحكام قانون تنظيم علاقات العمل.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021 and Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l187",
+    "topic": "الإلغاء",
+    "article_ref": "Article 73",
+    "text": "تُلغى الأحكام والتشريعات السابقة التي تتعارض مع أحكام هذا القانون، وذلك في الحدود التي تحددها المادة 73 والأحكام القانونية ذات الصلة.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l188",
+    "topic": "النشر ودخول القانون حيز التنفيذ",
+    "article_ref": "Article 74",
+    "text": "يُنشر القانون في الجريدة الرسمية ويُعمل به اعتباراً من التاريخ المحدد في أحكامه.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://u.ae/-/media/Documents-2023/Federal-DecreeLaw-No-33-of-2021-Regarding-the-Regulation-of-Employment-Relationship-and-its-amendmen.pdf"
+  },
+  {
+    "id": "l189",
+    "topic": "عدم تأثیر العقوبة على العقوبات الأشد",
+    "article_ref": "Article 58",
+    "text": "لا يخل توقيع العقوبات المنصوص عليها في قانون تنظيم علاقات العمل بأي عقوبة أشد ينص عليها أي قانون آخر.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments.pdf.aspx"
+  },
+  {
+    "id": "l190",
+    "topic": "تقديم معلومات أو مستندات كاذبة",
+    "article_ref": "Article 59",
+    "text": "يعاقب بالغرامة كل من يقدم معلومات أو مستندات كاذبة بغرض استقدام عامل أجنبي إلى دولة الإمارات للعمل فيها، وفق الحدود المالية المنصوص عليها في القانون.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments.pdf.aspx"
+  },
+  {
+    "id": "l191",
+    "topic": "عرقلة موظفي الجهات المختصة",
+    "article_ref": "Article 59",
+    "text": "يعاقب بالغرامة من يعرقل أو يمنع الموظف المكلف بتنفيذ أحكام قانون تنظيم علاقات العمل ولائحته التنفيذية والقرارات الصادرة تنفيذاً له من أداء عمله، بما في ذلك استخدام القوة أو العنف أو التهديد باستخدامهما.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments.pdf.aspx"
+  },
+  {
+    "id": "l192",
+    "topic": "إفشاء أسرار العمل من قبل الموظف العام المختص",
+    "article_ref": "Article 59",
+    "text": "يعاقب بالغرامة من يفشي سراً من أسرار العمل اطلع عليه بحكم وظيفته كموظف عام مكلف بتنفيذ أحكام قانون تنظيم علاقات العمل ولائحته التنفيذية والقرارات الصادرة تنفيذاً له، حتى بعد تركه العمل.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments.pdf.aspx"
+  },
+  {
+    "id": "l193",
+    "topic": "توظيف عامل غير مصرح له بالعمل",
+    "article_ref": "Article 60",
+    "text": "يعاقب بالغرامة من يقوم بتوظيف عامل غير مصرح له بالعمل لديه، وفق الأحكام والعقوبات المحددة في قانون تنظيم علاقات العمل وتعديلاته.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments.pdf.aspx"
+  },
+  {
+    "id": "l194",
+    "topic": "استقدام العامل وتركه دون عمل",
+    "article_ref": "Article 60",
+    "text": "يعاقب من يقوم باستقدام عامل أو توظيفه ثم يتركه دون توفير العمل له، وفق العقوبات المنصوص عليها في القانون.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments.pdf.aspx"
+  },
+  {
+    "id": "l195",
+    "topic": "الاستخدام غير المشروع لتصاريح العمل",
+    "article_ref": "Article 60",
+    "text": "يعاقب من يستخدم تصاريح العمل لأغراض غير الأغراض التي صدرت من أجلها، وفق العقوبات المقررة في قانون تنظيم علاقات العمل.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments.pdf.aspx"
+  },
+  {
+    "id": "l196",
+    "topic": "إغلاق المنشأة دون تسوية حقوق العمال",
+    "article_ref": "Article 60",
+    "text": "يعاقب من يقوم بإغلاق المنشأة أو تعليق نشاطها دون اتخاذ الإجراءات اللازمة لتسوية حقوق العمال بالمخالفة لأحكام قانون تنظيم علاقات العمل ولائحته التنفيذية والقرارات الصادرة تنفيذاً له.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments.pdf.aspx"
+  },
+  {
+    "id": "l197",
+    "topic": "تشغيل الأحداث بالمخالفة للقانون",
+    "article_ref": "Article 60",
+    "text": "يعاقب من يقوم بتشغيل حدث بالمخالفة للأحكام المنظمة لتشغيل الأحداث في قانون تنظيم علاقات العمل.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments.pdf.aspx"
+  },
+  {
+    "id": "l198",
+    "topic": "موافقة الولي أو الوصي على تشغيل الحدث بالمخالفة",
+    "article_ref": "Article 60",
+    "text": "يعاقب الولي أو الوصي على الحدث إذا وافق على تشغيله بالمخالفة للأحكام المنصوص عليها في قانون تنظيم علاقات العمل.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments.pdf.aspx"
+  },
+  {
+    "id": "l199",
+    "topic": "التحايل على أحكام سوق العمل",
+    "article_ref": "Article 60",
+    "text": "تطبق العقوبات المقررة قانوناً على صاحب العمل الذي يتحايل على أحكام القوانين أو اللوائح أو القرارات المنظمة لسوق العمل، بما في ذلك الحالات التي يتم فيها تعيين عمال بشكل صوري.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments.pdf.aspx"
+  },
+  {
+    "id": "l200",
+    "topic": "التفتيش على المنشآت",
+    "article_ref": "Article 57",
+    "text": "يكون لموظفي الوزارة المخولين صفة مأموري الضبط القضائي لإثبات المخالفات المتعلقة بأحكام قانون تنظيم علاقات العمل ولائحته التنفيذية والقرارات الصادرة تنفيذاً له، ويحق لهم دخول المنشآت المعنية وفحص المخالفات وتحرير المحاضر والسجلات اللازمة.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments.pdf.aspx"
+  },
+  {
+    "id": "l201",
+    "topic": "تنظيم إجراءات تفتيش العمل",
+    "article_ref": "Article 57",
+    "text": "تحدد اللائحة التنفيذية لقانون تنظيم علاقات العمل الإجراءات والضوابط المتعلقة بتفتيش العمل.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments.pdf.aspx"
+  },
+  {
+    "id": "l202",
+    "topic": "المنازعات العمالية الفردية",
+    "article_ref": "Article 54",
+    "text": "إذا نشأ نزاع بين صاحب العمل والعامل بشأن أي حق من الحقوق المترتبة بموجب قانون تنظيم علاقات العمل، يقدم طلب إلى وزارة الموارد البشرية والتوطين للنظر في النزاع واتخاذ الإجراءات اللازمة لتسويته ودياً، وعند تعذر التسوية تتم إحالته وفق الإجراءات القانونية المعمول بها.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments.pdf.aspx"
+  },
+  {
+    "id": "l203",
+    "topic": "المنازعات العمالية الجماعية",
+    "article_ref": "Article 56",
+    "text": "إذا نشأ نزاع بين صاحب العمل وجميع عمال المنشأة أو مجموعة منهم وتعذر حله ودياً، يجوز لصاحب العمل أو العمال تقديم شكوى إلى الوزارة وفق الإجراءات التي تحددها اللائحة التنفيذية.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments.pdf.aspx"
+  },
+  {
+    "id": "l204",
+    "topic": "الإجراءات الوقائية في المنازعات الجماعية",
+    "article_ref": "Article 56",
+    "text": "يجوز للوزير اتخاذ إجراءات أو تدابير وقائية تجاه المنشأة لتجنب تسبب النزاع العمالي الجماعي القائم في إلحاق ضرر بالمصلحة العامة.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No. 33 of 2021 Regarding the Regulation of Employment Relationship and its amendments.pdf.aspx"
+  },
+  {
+    "id": "l205",
+    "topic": "لجنة المنازعات العمالية الجماعية",
+    "article_ref": "Article 56",
+    "text": "يجوز لمجلس الوزراء، بناءً على اقتراح الوزير، تشكيل لجنة أو أكثر تسمى لجنة المنازعات العمالية الجماعية للنظر في المنازعات التي يتعذر على الوزارة تسويتها ودياً، وتحدد قرارات تشكيلها اختصاصاتها ونظام عملها وآلية إصدار قراراتها وتنفيذها.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No. 33 of 2021 Regarding the Regulation of Employment Relationship and its amendments.pdf.aspx"
+  },
+  {
+    "id": "l206",
+    "topic": "الإعفاء من الرسوم القضائية",
+    "article_ref": "Article 55",
+    "text": "تعفى الدعاوى العمالية في جميع مراحل التقاضي والتنفيذ، وكذلك الطلبات التي يقدمها العمال أو ورثتهم، من الرسوم القضائية وفق الحدود والشروط المنصوص عليها في القانون.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No. 33 of 2021 Regarding the Regulation of Employment Relationship and its amendments.pdf.aspx"
+  },
+  {
+    "id": "l207",
+    "topic": "اللغة العربية المعتمدة",
+    "article_ref": "Article 66",
+    "text": "تكون اللغة العربية هي اللغة المعتمدة في جميع السجلات والملفات والبيانات والعقود وغيرها من الوثائق المنصوص عليها في قانون تنظيم علاقات العمل، ويجوز استخدام لغة أخرى إلى جانب اللغة العربية.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law%20No.%2033 of 2021 Regarding the Regulation of Employment Relationship and its amendments.pdf.aspx"
+  },
+  {
+    "id": "l208",
+    "topic": "حساب المدد والتواريخ",
+    "article_ref": "Article 67",
+    "text": "تحدد أحكام قانون تنظيم علاقات العمل كيفية حساب المدد والتواريخ المرتبطة بتطبيق أحكامه وفق القواعد القانونية المعمول بها.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law No. 33 of 2021 Regarding the Regulation of Employment Relationship and its amendments.pdf.aspx"
+  },
+  {
+    "id": "l209",
+    "topic": "توفيق الأوضاع",
+    "article_ref": "Article 68",
+    "text": "تلتزم الجهات المعنية بتوفيق أوضاعها وفق الأحكام والمواعيد التي يحددها قانون تنظيم علاقات العمل وتعديلاته واللوائح والقرارات الصادرة تنفيذاً له.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law No. 33 of 2021 Regarding the Regulation of Employment Relationship and its amendments.pdf.aspx"
+  },
+  {
+    "id": "l210",
+    "topic": "التظلم من قرارات الوزارة",
+    "article_ref": "Article 69",
+    "text": "يجوز التظلم من قرارات الوزارة وفق الإجراءات والضوابط والمواعيد التي يحددها قانون تنظيم علاقات العمل واللوائح والقرارات المنفذة له.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law No. 33 of 2021 Regarding the Regulation of Employment Relationship and its amendments.pdf.aspx"
+  },
+  {
+    "id": "l211",
+    "topic": "اختصاصات مجلس الوزراء",
+    "article_ref": "Article 70",
+    "text": "يمارس مجلس الوزراء الاختصاصات المنصوص عليها في قانون تنظيم علاقات العمل، بما في ذلك إصدار القرارات اللازمة لتنفيذ أحكام القانون وفق الصلاحيات المقررة له.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal Decree-Law No. 33 of 2021 Regarding the Regulation of Employment Relationship and its amendments.pdf.aspx"
+  },
+  {
+    "id": "l212",
+    "topic": "اختصاصات الوزارة",
+    "article_ref": "Article 71",
+    "text": "تتولى الوزارة الاختصاصات والمسؤوليات المنصوص عليها في قانون تنظيم علاقات العمل واللوائح والقرارات الصادرة تنفيذاً له، بما يضمن تنظيم علاقات العمل والإشراف على سوق العمل.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law No. 33 of 2021 Regarding the Regulation of Employment Relationship and its amendments.pdf.aspx"
+  },
+  {
+    "id": "l213",
+    "topic": "اللائحة التنفيذية",
+    "article_ref": "Article 72",
+    "text": "تصدر اللائحة التنفيذية لقانون تنظيم علاقات العمل بقرار من مجلس الوزراء، وتتضمن القواعد والإجراءات اللازمة لتنفيذ أحكام القانون.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law No. 33 of 2021 Regarding the Regulation of Employment Relationship and its amendments.pdf.aspx"
+  },
+  {
+    "id": "l214",
+    "topic": "إلغاء التشريعات السابقة",
+    "article_ref": "Article 73",
+    "text": "تلغى الأحكام والتشريعات السابقة التي تتعارض مع أحكام قانون تنظيم علاقات العمل، وفق ما يحدده القانون والتعديلات اللاحقة عليه.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal%20Decree-Law No. 33 of 2021 Regarding the Regulation of Employment Relationship and its amendments.pdf.aspx"
+  },
+  {
+    "id": "l215",
+    "topic": "النشر ودخول القانون حيز التنفيذ",
+    "article_ref": "Article 74",
+    "text": "ينشر قانون تنظيم علاقات العمل في الجريدة الرسمية، ويعمل به وفق تاريخ النفاذ المحدد في أحكامه.",
+    "source_name": "UAE Federal Decree-Law No. 33 of 2021",
+    "source_url": "https://www.mohre.gov.ae/assets/download/b3a8d3c1/Federal Decree-Law No. 33 of 2021 Regarding the Regulation of Employment Relationship and its amendments.pdf.aspx"
+  },
+  {
+    "id": "l216",
+    "topic": "تعريف اللوائح القانونية",
+    "article_ref": "Cabinet Resolution Article 1",
+    "text": "يقصد باللوائح القانونية القرارات والإرشادات والتعاميم المتعلقة بعمل وزارة الموارد البشرية والتوطين.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l217",
+    "topic": "تصنيف المنشآت",
+    "article_ref": "Cabinet Resolution Article 2",
+    "text": "تصنف المنشآت وفق معايير تشمل النشاط الاقتصادي وعدد العمال والتنوع الثقافي والديموغرافي ومدى الالتزام باللوائح القانونية ودعم أهداف الحكومة المتعلقة بالتوطين والتدريب وتنمية المهارات.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l218",
+    "topic": "تصنيف العمال",
+    "article_ref": "Cabinet Resolution Article 3",
+    "text": "يصنف العمال الخاضعون لأحكام المرسوم بقانون وفق معايير تشمل المهارات والمؤهلات التعليمية والإنتاجية والمستويات المهنية أو مستويات الأجور وحالة الإقامة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l219",
+    "topic": "نظام حماية الأجور",
+    "article_ref": "Cabinet Resolution Article 16",
+    "text": "تلتزم المنشآت المسجلة لدى الوزارة بسداد أجور العاملين في مواعيد استحقاقها من خلال نظام حماية الأجور أو أي أنظمة أخرى تعتمدها الوزارة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l220",
+    "topic": "إثبات سداد الأجور",
+    "article_ref": "Cabinet Resolution Article 16",
+    "text": "تلتزم المنشآت بتقديم المستندات والبيانات التي تطلبها الوزارة لإثبات سداد أجور العمال في مواعيد استحقاقها.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l221",
+    "topic": "موعد دفع الأجر",
+    "article_ref": "Cabinet Resolution Article 16",
+    "text": "يجب سداد الأجر في موعد استحقاقه وفق ما تم الاتفاق عليه في عقد العمل وبما يتوافق مع الأنظمة والمعايير التي تضعها الوزارة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l222",
+    "topic": "الإجازة السنوية",
+    "article_ref": "Cabinet Resolution Article 19",
+    "text": "يستحق العامل إجازته السنوية وفق المدد والضوابط المنصوص عليها في المرسوم بقانون ولائحته التنفيذية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l223",
+    "topic": "رصيد الإجازة السنوية عند انتهاء الخدمة",
+    "article_ref": "Cabinet Resolution Article 19",
+    "text": "عند انتهاء خدمة العامل، يصرف له بدل نقدي عن رصيد إجازاته السنوية المستحقة قانوناً وفقاً للأجر الأساسي.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l224",
+    "topic": "ترحيل الإجازة السنوية",
+    "article_ref": "Cabinet Resolution Article 19",
+    "text": "يجوز للعامل، بموافقة صاحب العمل ووفق اللوائح التنظيمية المعمول بها في المنشأة، ترحيل رصيد إجازته السنوية أو جزء منه إلى السنة التالية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l225",
+    "topic": "الإجازات المتداخلة مع الإجازة السنوية",
+    "article_ref": "Cabinet Resolution Article 19",
+    "text": "تدخل أيام الإجازات المقررة قانوناً أو اتفاقاً التي تتخلل الإجازة السنوية ضمن مدة الإجازة السنوية، ما لم ينص عقد العمل أو اللوائح التنظيمية على ما هو أكثر منفعة للعامل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l226",
+    "topic": "الحد الأقصى لتأجيل الإجازة",
+    "article_ref": "Cabinet Resolution Article 19",
+    "text": "لا يجوز لصاحب العمل منع العامل من الاستفادة من إجازته السنوية المستحقة لأكثر من سنتين، إلا إذا رغب العامل في ترحيلها أو الحصول على بدل نقدي عنها وفق الضوابط المعمول بها.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l227",
+    "topic": "أجر الإجازة غير المستخدمة",
+    "article_ref": "Cabinet Resolution Article 19",
+    "text": "يستحق العامل عند ترك العمل أجرة أيام الإجازة السنوية المستحقة التي لم يحصل عليها، وتحسب المستحقات وفق الأجر الأساسي وبما يتوافق مع الأحكام القانونية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l228",
+    "topic": "الإجازة السنوية للعامل الذي لم يكمل سنة",
+    "article_ref": "Cabinet Resolution Article 19",
+    "text": "يستحق العامل الذي انتهت خدمته قبل إكمال السنة المستحقات المتعلقة بالإجازة السنوية عن الجزء من السنة الذي قضاه في العمل وفق الأحكام المقررة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l229",
+    "topic": "احتساب الأجر الأساسي لبدل الإجازة",
+    "article_ref": "Cabinet Resolution Article 19",
+    "text": "يتم احتساب بدل رصيد الإجازة السنوية المستحقة عند انتهاء الخدمة وفق الأجر الأساسي للعامل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l230",
+    "topic": "الإجازة بدون أجر",
+    "article_ref": "Cabinet Resolution Article 20",
+    "text": "يجوز للعامل الحصول على إجازة بدون أجر وفق الشروط والإجراءات والضوابط التي تحددها التشريعات واللوائح المعمول بها.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l231",
+    "topic": "إجازة البحث عن عمل",
+    "article_ref": "Cabinet Resolution Article 21",
+    "text": "يجوز للعامل في الحالات التي يقررها القانون الحصول على إجازة مخصصة للبحث عن فرصة عمل جديدة وفق الضوابط القانونية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l232",
+    "topic": "إجازة أداء الخدمة الوطنية",
+    "article_ref": "Cabinet Resolution Article 22",
+    "text": "تطبق الأحكام الخاصة بإجازة أداء الخدمة الوطنية وفق التشريعات الاتحادية ذات الصلة والضوابط المنظمة لها.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law%20No.%2033.pdf.aspx"
+  },
+  {
+    "id": "l233",
+    "topic": "إجازة الوالدية",
+    "article_ref": "Cabinet Resolution Article 23",
+    "text": "يستحق العامل إجازة الوالدية وفق المدة والشروط والضوابط المنصوص عليها في التشريعات المنظمة لعلاقات العمل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive%20Regulations%20Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l234",
+    "topic": "إجازة الحداد",
+    "article_ref": "Cabinet Resolution Article 24",
+    "text": "يستحق العامل إجازة الحداد في الحالات المحددة قانوناً، وتحدد مدة الإجازة بحسب درجة القرابة وفق الأحكام المعمول بها.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l235",
+    "topic": "إجازة الدراسة",
+    "article_ref": "Cabinet Resolution Article 25",
+    "text": "يجوز للعامل الحصول على إجازة للدراسة وفق الشروط والضوابط المنصوص عليها في التشريعات واللوائح التنفيذية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l236",
+    "topic": "إجازة أداء الامتحانات",
+    "article_ref": "Cabinet Resolution Article 25",
+    "text": "تطبق أحكام الإجازة الخاصة بأداء الامتحانات على العامل المستوفي للشروط المحددة قانوناً، وفق المستندات والإجراءات المطلوبة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l237",
+    "topic": "أنماط العمل",
+    "article_ref": "Cabinet Resolution Article 6",
+    "text": "يجوز تنظيم علاقة العمل وفق أنماط العمل التي يحددها المرسوم بقانون واللائحة التنفيذية، بما يتناسب مع طبيعة النشاط واحتياجات المنشأة والعامل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l238",
+    "topic": "العمل عن بعد",
+    "article_ref": "Cabinet Resolution Article 6",
+    "text": "يمكن تنظيم العمل عن بعد ضمن أنماط العمل المعتمدة، مع تحديد الالتزامات المتعلقة بالعمل والأجر وساعات العمل وفق الاتفاق واللوائح المعمول بها.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l239",
+    "topic": "العمل بنظام تقاسم الوظيفة",
+    "article_ref": "Cabinet Resolution Article 6",
+    "text": "يجوز تنظيم العمل بنظام تقاسم الوظيفة وفق الضوابط التي تحددها الوزارة، بحيث يشترك أكثر من عامل في أداء مهام مرتبطة بوظيفة واحدة وفق ترتيبات العمل المعتمدة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l240",
+    "topic": "العمل المؤقت",
+    "article_ref": "Cabinet Resolution Article 6",
+    "text": "يمكن إبرام علاقة عمل مؤقتة لأداء مهمة محددة أو لمدة محددة وفق شروط العقد وأحكام التشريعات المنظمة للعمل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l241",
+    "topic": "العمل المرن",
+    "article_ref": "Cabinet Resolution Article 6",
+    "text": "يجوز تنظيم العمل بنظام العمل المرن وفق المدة أو ساعات العمل أو المكان أو طبيعة العمل التي يتم الاتفاق عليها ضمن الإطار القانوني.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l242",
+    "topic": "عقد العمل المؤقت",
+    "article_ref": "Cabinet Resolution Article 7",
+    "text": "يحدد عقد العمل المؤقت مدة العمل أو المهمة المطلوب إنجازها والحقوق والالتزامات المترتبة على طرفي علاقة العمل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l243",
+    "topic": "تصريح العمل المؤقت",
+    "article_ref": "Cabinet Resolution Article 8",
+    "text": "يخضع تشغيل العامل وفق نمط العمل المؤقت لإجراءات وتصاريح العمل التي تعتمدها الوزارة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l244",
+    "topic": "تصريح العمل المرن",
+    "article_ref": "Cabinet Resolution Article 8",
+    "text": "يصدر تصريح العمل وفق الشروط والإجراءات التي تحددها الوزارة بما يتناسب مع نمط العمل المرن.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l245",
+    "topic": "تصريح العمل عن بعد",
+    "article_ref": "Cabinet Resolution Article 8",
+    "text": "يجوز إصدار تصريح العمل وفق نظام العمل عن بعد متى استوفى صاحب العمل والعامل الشروط والإجراءات التي تحددها الوزارة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l246",
+    "topic": "العمل بنظام تقاسم الوظيفة",
+    "article_ref": "Cabinet Resolution Article 8",
+    "text": "يخضع نظام تقاسم الوظيفة للإجراءات والتصاريح التي تعتمدها الوزارة وفق طبيعة علاقة العمل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l247",
+    "topic": "شروط تصريح العمل",
+    "article_ref": "Cabinet Resolution Article 10",
+    "text": "يشترط لإصدار تصاريح العمل استيفاء المتطلبات والمستندات والضوابط التي تحددها الوزارة وفق نوع التصريح وعلاقة العمل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l248",
+    "topic": "تصريح انتقال العامل",
+    "article_ref": "Cabinet Resolution Article 11",
+    "text": "يجوز انتقال العامل بين المنشآت وفق الحالات والشروط والإجراءات التي يحددها قانون تنظيم علاقات العمل واللائحة التنفيذية والقرارات الوزارية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l249",
+    "topic": "تغيير صاحب العمل",
+    "article_ref": "Cabinet Resolution Article 11",
+    "text": "تتم إجراءات تغيير صاحب العمل من خلال الأنظمة والإجراءات المعتمدة لدى الوزارة وبعد استيفاء المتطلبات القانونية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l250",
+    "topic": "إلغاء تصريح العمل",
+    "article_ref": "Cabinet Resolution Article 12",
+    "text": "تتم إجراءات إلغاء تصريح العمل وفق الحالات والإجراءات والمستندات التي تحددها الوزارة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l251",
+    "topic": "تعديل بيانات علاقة العمل",
+    "article_ref": "Cabinet Resolution Article 13",
+    "text": "يجب تحديث بيانات علاقة العمل لدى الوزارة عند حدوث أي تغيير جوهري في البيانات المسجلة وفق الإجراءات المعتمدة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l252",
+    "topic": "توثيق عقد العمل",
+    "article_ref": "Cabinet Resolution Article 14",
+    "text": "تلتزم المنشأة بإتمام إجراءات تسجيل وتوثيق عقد العمل وفق النماذج والإجراءات المعتمدة لدى الوزارة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l253",
+    "topic": "نسخة عقد العمل",
+    "article_ref": "Cabinet Resolution Article 14",
+    "text": "يجب أن تتضمن علاقة العمل عقداً يوضح البيانات الأساسية والحقوق والالتزامات المتفق عليها بين صاحب العمل والعامل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l254",
+    "topic": "تسجيل العامل في أنظمة الوزارة",
+    "article_ref": "Cabinet Resolution Article 15",
+    "text": "تلتزم المنشأة بتسجيل بيانات العامل وعلاقة العمل في الأنظمة الإلكترونية المعتمدة لدى الوزارة وفق الإجراءات المحددة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l255",
+    "topic": "بيانات الأجر في العقد",
+    "article_ref": "Cabinet Resolution Article 16",
+    "text": "يجب أن تكون بيانات الأجر المسجلة في عقد العمل متوافقة مع البيانات المعتمدة لدى الوزارة وأنظمة حماية الأجور.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l256",
+    "topic": "البيانات المطلوبة لإثبات الأجر",
+    "article_ref": "Cabinet Resolution Article 16",
+    "text": "يجوز للوزارة طلب البيانات والمستندات اللازمة للتحقق من التزام المنشأة بسداد أجور العاملين.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l257",
+    "topic": "حساب الأجر المستحق",
+    "article_ref": "Cabinet Resolution Article 17",
+    "text": "تحسب المستحقات المالية للعامل وفق البيانات المثبتة في عقد العمل والأنظمة المعتمدة والأحكام القانونية ذات الصلة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l258",
+    "topic": "الخصم من أجر العامل",
+    "article_ref": "Cabinet Resolution Article 18",
+    "text": "لا يجوز إجراء الخصومات من أجر العامل إلا في الحالات والحدود والإجراءات التي يسمح بها قانون تنظيم علاقات العمل واللائحة التنفيذية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l259",
+    "topic": "سداد المستحقات عند انتهاء الخدمة",
+    "article_ref": "Cabinet Resolution Article 21",
+    "text": "يلتزم صاحب العمل بتسوية المستحقات المالية للعامل عند انتهاء علاقة العمل وفق المدد والإجراءات المقررة قانوناً.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l260",
+    "topic": "تسوية مستحقات العامل",
+    "article_ref": "Cabinet Resolution Article 21",
+    "text": "تشمل التسوية النهائية الحقوق المالية المستحقة للعامل وفق عقد العمل والتشريعات النافذة، بما في ذلك الأجر والمستحقات الأخرى التي ثبت استحقاقها.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l261",
+    "topic": "إنهاء علاقة العمل",
+    "article_ref": "Cabinet Resolution Article 22",
+    "text": "تطبق إجراءات إنهاء علاقة العمل وفق الحالات المنصوص عليها في المرسوم بقانون والعقد واللوائح والقرارات ذات الصلة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l262",
+    "topic": "إخطار إنهاء عقد العمل",
+    "article_ref": "Cabinet Resolution Article 23",
+    "text": "يجب أن يتم إخطار الطرف الآخر بإنهاء عقد العمل وفق مدة الإخطار المتفق عليها والتي يجب أن تكون ضمن الحدود التي يقررها القانون.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l263",
+    "topic": "بدل مهلة الإخطار",
+    "article_ref": "Cabinet Resolution Article 23",
+    "text": "إذا لم يلتزم أحد الطرفين بمدة الإخطار المقررة، يستحق الطرف الآخر بدل مدة الإخطار وفق الأحكام القانونية ذات الصلة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l264",
+    "topic": "إجازة البحث عن عمل أثناء الإخطار",
+    "article_ref": "Cabinet Resolution Article 23",
+    "text": "يجوز للعامل خلال مدة الإخطار الحصول على الوقت اللازم للبحث عن فرصة عمل أخرى وفق الشروط والإجراءات المنصوص عليها في القانون.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l265",
+    "topic": "الاستثناء من مدة الإخطار",
+    "article_ref": "Cabinet Resolution Article 24",
+    "text": "تطبق حالات الإعفاء من مدة الإخطار وفق الحالات المحددة في قانون تنظيم علاقات العمل واللائحة التنفيذية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l266",
+    "topic": "مكافأة نهاية الخدمة",
+    "article_ref": "Cabinet Resolution Article 26",
+    "text": "تحسب مكافأة نهاية الخدمة للعامل المستحق لها وفق الأحكام والمدد وطريقة الحساب المنصوص عليها في قانون تنظيم علاقات العمل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l267",
+    "topic": "الأجر الأساسي في مكافأة نهاية الخدمة",
+    "article_ref": "Cabinet Resolution Article 26",
+    "text": "يعتمد الأجر الأساسي في حساب مكافأة نهاية الخدمة وفق القواعد المحددة في التشريعات المنظمة لعلاقات العمل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l268",
+    "topic": "مدة الخدمة في مكافأة نهاية الخدمة",
+    "article_ref": "Cabinet Resolution Article 26",
+    "text": "تحدد مدة الخدمة التي تدخل في حساب مكافأة نهاية الخدمة وفق المدة الفعلية للخدمة المستوفية للشروط القانونية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l269",
+    "topic": "الغياب غير المدفوع ومكافأة نهاية الخدمة",
+    "article_ref": "Cabinet Resolution Article 26",
+    "text": "لا تدخل فترات الغياب بدون أجر ضمن مدة الخدمة التي يتم على أساسها حساب مكافأة نهاية الخدمة وفق الأحكام القانونية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l270",
+    "topic": "إصدار شهادة الخبرة",
+    "article_ref": "Cabinet Resolution Article 27",
+    "text": "يجوز للعامل طلب شهادة خبرة أو مستند يثبت مدة خدمته وبيانات العمل وفق الضوابط والإجراءات المعمول بها.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l271",
+    "topic": "محتوى شهادة الخبرة",
+    "article_ref": "Cabinet Resolution Article 27",
+    "text": "تتضمن شهادة الخبرة البيانات الأساسية المتعلقة بالعامل وعلاقة العمل ومدة الخدمة وفق النموذج والإجراءات المعتمدة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l272",
+    "topic": "حظر احتجاز وثائق العامل",
+    "article_ref": "Cabinet Resolution Article 28",
+    "text": "لا يجوز لصاحب العمل الاحتفاظ بوثائق العامل الأصلية بالمخالفة للأحكام القانونية المنظمة لعلاقة العمل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l273",
+    "topic": "تقديم الشكوى العمالية",
+    "article_ref": "Cabinet Resolution Article 31",
+    "text": "يجوز للعامل أو صاحب العمل تقديم شكوى عمالية إلى الوزارة عند وجود نزاع يتعلق بحقوق أو التزامات ناشئة عن علاقة العمل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l274",
+    "topic": "المستندات المؤيدة للشكوى",
+    "article_ref": "Cabinet Resolution Article 31",
+    "text": "يجوز للوزارة طلب المستندات والبيانات اللازمة للنظر في الشكوى العمالية والتحقق من الوقائع والمطالبات المقدمة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l275",
+    "topic": "التسوية الودية للمنازعة العمالية",
+    "article_ref": "Cabinet Resolution Article 31",
+    "text": "تعمل الوزارة على تسوية المنازعات العمالية ودياً قبل إحالتها إلى الجهة القضائية المختصة، وفق الإجراءات القانونية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l276",
+    "topic": "إحالة النزاع إلى المحكمة",
+    "article_ref": "Cabinet Resolution Article 31",
+    "text": "عند تعذر التسوية الودية، تتم إحالة النزاع إلى المحكمة العمالية المختصة وفق الإجراءات والمواعيد المقررة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l277",
+    "topic": "تسجيل الدعوى بعد الإحالة",
+    "article_ref": "Cabinet Resolution Article 31",
+    "text": "يلتزم العامل الذي تمت إحالة شكواه إلى المحكمة باتخاذ إجراءات تسجيل الدعوى أمام المحكمة المختصة وفق المدة المحددة قانوناً.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l278",
+    "topic": "التسوية أثناء نظر الشكوى",
+    "article_ref": "Cabinet Resolution Article 31",
+    "text": "يجوز تسوية النزاع العمالي ودياً أثناء إجراءات الشكوى وفق الضوابط التي تعتمدها الوزارة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l279",
+    "topic": "المنازعات المتعلقة بالأجور",
+    "article_ref": "Cabinet Resolution Article 31",
+    "text": "تشمل الشكاوى العمالية المطالبات المتعلقة بالأجور والمستحقات المالية الناشئة عن عقد العمل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l280",
+    "topic": "المنازعات المتعلقة بالإجازات",
+    "article_ref": "Cabinet Resolution Article 31",
+    "text": "يجوز تقديم شكوى بشأن عدم منح الإجازات أو عدم سداد المستحقات المتعلقة بها وفق الأحكام القانونية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l281",
+    "topic": "المنازعات المتعلقة بإنهاء الخدمة",
+    "article_ref": "Cabinet Resolution Article 31",
+    "text": "يجوز للعامل تقديم شكوى بشأن المستحقات أو الحقوق الناشئة عن إنهاء علاقة العمل وفق الإجراءات القانونية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l282",
+    "topic": "البيانات الإلكترونية للعمال",
+    "article_ref": "Cabinet Resolution Article 32",
+    "text": "تستخدم الوزارة الأنظمة الإلكترونية المعتمدة لتسجيل ومعالجة بيانات علاقات العمل والخدمات المرتبطة بها.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l283",
+    "topic": "التحقق من بيانات المنشأة",
+    "article_ref": "Cabinet Resolution Article 32",
+    "text": "يجوز للوزارة التحقق من بيانات المنشأة والعامل وعلاقة العمل باستخدام السجلات والأنظمة الإلكترونية المعتمدة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l284",
+    "topic": "التزام المنشأة بتحديث البيانات",
+    "article_ref": "Cabinet Resolution Article 32",
+    "text": "تلتزم المنشأة بتحديث البيانات المتعلقة بعلاقات العمل عند حدوث التغييرات التي تستوجب التحديث لدى الوزارة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l285",
+    "topic": "التفتيش على المنشآت",
+    "article_ref": "Cabinet Resolution Article 33",
+    "text": "تخضع المنشآت لإجراءات التفتيش التي تجريها الجهات المختصة للتحقق من الالتزام بالتشريعات والقرارات المنظمة لعلاقات العمل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l286",
+    "topic": "تعاون المنشأة مع المفتش",
+    "article_ref": "Cabinet Resolution Article 33",
+    "text": "تلتزم المنشأة بالتعاون مع موظفي التفتيش وتقديم البيانات والمستندات المطلوبة للتحقق من مدى الالتزام بأحكام قانون العمل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l287",
+    "topic": "بيانات العامل أثناء التفتيش",
+    "article_ref": "Cabinet Resolution Article 33",
+    "text": "يجوز لموظفي التفتيش طلب البيانات المتعلقة بالعاملين وعقودهم وأجورهم وظروف العمل للتحقق من الالتزام بالتشريعات.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l288",
+    "topic": "إثبات المخالفات العمالية",
+    "article_ref": "Cabinet Resolution Article 33",
+    "text": "توثق المخالفات التي يتم اكتشافها أثناء التفتيش وفق الإجراءات القانونية المعتمدة لدى الجهات المختصة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l289",
+    "topic": "التدابير التصحيحية",
+    "article_ref": "Cabinet Resolution Article 34",
+    "text": "يجوز للجهات المختصة مطالبة المنشأة باتخاذ التدابير اللازمة لتصحيح المخالفات خلال المدة التي تحددها وفق القانون.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l290",
+    "topic": "الالتزام بالقرارات الوزارية",
+    "article_ref": "Cabinet Resolution Article 35",
+    "text": "تلتزم المنشآت بالقرارات والتعليمات الصادرة عن الوزارة لتنفيذ أحكام التشريعات المنظمة لعلاقات العمل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l291",
+    "topic": "تنظيم بيئة العمل",
+    "article_ref": "Cabinet Resolution Article 36",
+    "text": "يجب على المنشآت الالتزام بالمتطلبات التنظيمية المتعلقة ببيئة العمل والصحة والسلامة المهنية وفق التشريعات والقرارات ذات الصلة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l292",
+    "topic": "السكن العمالي",
+    "article_ref": "Cabinet Resolution Article 37",
+    "text": "تلتزم المنشآت التي ينطبق عليها شرط توفير السكن العمالي بتوفير السكن وفق المعايير والاشتراطات المعتمدة من الجهات المختصة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l293",
+    "topic": "معايير السكن العمالي",
+    "article_ref": "Cabinet Resolution Article 37",
+    "text": "يجب أن يستوفي السكن العمالي المتطلبات المتعلقة بالسلامة والصحة والتهوية والإضاءة والمساحة وغيرها من المعايير المعتمدة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l294",
+    "topic": "حماية العامل من مخاطر العمل",
+    "article_ref": "Cabinet Resolution Article 38",
+    "text": "يلتزم صاحب العمل باتخاذ التدابير اللازمة للحد من مخاطر العمل وتوفير وسائل الوقاية والتوعية والتدريب المناسبة للعاملين.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l295",
+    "topic": "التوعية بمخاطر العمل",
+    "article_ref": "Cabinet Resolution Article 38",
+    "text": "يجب توعية العاملين بالمخاطر المهنية المرتبطة بعملهم وطرق الوقاية منها وفق متطلبات الصحة والسلامة المهنية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l296",
+    "topic": "معدات الوقاية الشخصية",
+    "article_ref": "Cabinet Resolution Article 38",
+    "text": "يجب توفير معدات ووسائل الوقاية الشخصية المناسبة لطبيعة العمل والمخاطر المهنية التي قد يتعرض لها العامل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l297",
+    "topic": "الإبلاغ عن إصابات العمل",
+    "article_ref": "Cabinet Resolution Article 39",
+    "text": "تلتزم المنشأة بالإبلاغ عن إصابات العمل والأمراض المهنية وفق الإجراءات والمواعيد التي تحددها الجهات المختصة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l298",
+    "topic": "توثيق إصابة العمل",
+    "article_ref": "Cabinet Resolution Article 39",
+    "text": "يجب توثيق بيانات إصابة العمل والإجراءات المتخذة بشأنها وفق النماذج والسجلات المعتمدة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l299",
+    "topic": "الرعاية الطبية للعامل المصاب",
+    "article_ref": "Cabinet Resolution Article 39",
+    "text": "تطبق على العامل المصاب أحكام الرعاية والعلاج والتعويض المقررة في التشريعات المنظمة لإصابات العمل والأمراض المهنية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l300",
+    "topic": "التزامات المنشأة تجاه العامل المصاب",
+    "article_ref": "Cabinet Resolution Article 39",
+    "text": "تلتزم المنشأة باتخاذ الإجراءات اللازمة تجاه العامل المصاب وفق أحكام إصابات العمل والرعاية الصحية والسلامة المهنية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l301",
+    "topic": "تنظيم العمل في الحر",
+    "article_ref": "Cabinet Resolution Article 40",
+    "text": "تلتزم المنشآت بالقواعد والضوابط الخاصة بحماية العمال من مخاطر العمل خلال فترات ارتفاع درجات الحرارة وفق القرارات والأنظمة المعتمدة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l302",
+    "topic": "الوقاية من الإجهاد الحراري",
+    "article_ref": "Cabinet Resolution Article 40",
+    "text": "يجب على المنشآت اتخاذ التدابير الوقائية المناسبة لحماية العمال من الإجهاد الحراري والمخاطر المرتبطة بالعمل في درجات الحرارة المرتفعة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l303",
+    "topic": "التدريب المهني",
+    "article_ref": "Cabinet Resolution Article 41",
+    "text": "تشجع التشريعات المنظمة للعمل على تطوير مهارات العاملين ورفع كفاءتهم المهنية بما يتوافق مع احتياجات سوق العمل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l304",
+    "topic": "تطوير مهارات العاملين",
+    "article_ref": "Cabinet Resolution Article 41",
+    "text": "يجوز للمنشآت وضع برامج تدريب وتطوير مهني للعاملين بما يعزز الكفاءة والإنتاجية والمهارات المطلوبة لأداء العمل.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l305",
+    "topic": "تأهيل العمال",
+    "article_ref": "Cabinet Resolution Article 41",
+    "text": "يمكن للمنشآت الاستفادة من برامج التدريب والتأهيل المعتمدة لتطوير مهارات العاملين ورفع مستوى الكفاءة المهنية.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l306",
+    "topic": "التوطين وتنمية المهارات",
+    "article_ref": "Cabinet Resolution Article 2",
+    "text": "تدخل مساهمة المنشأة في تحقيق أهداف التوطين والتدريب وتنمية المهارات ضمن المعايير التي يمكن أن تؤخذ في الاعتبار عند تصنيف المنشآت.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l307",
+    "topic": "التنوع في القوى العاملة",
+    "article_ref": "Cabinet Resolution Article 2",
+    "text": "يمكن أن يؤخذ التنوع الثقافي والديموغرافي للقوى العاملة في الاعتبار عند تصنيف المنشآت وفق المعايير التي تحددها الجهات المختصة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l308",
+    "topic": "عدد العمال وتصنيف المنشأة",
+    "article_ref": "Cabinet Resolution Article 2",
+    "text": "يعد عدد العمال العاملين في المنشأة أحد المعايير التي يمكن استخدامها في تصنيف المنشآت وفق النظام المعتمد.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l309",
+    "topic": "النشاط الاقتصادي للمنشأة",
+    "article_ref": "Cabinet Resolution Article 2",
+    "text": "يؤخذ النشاط الاقتصادي للمنشأة في الاعتبار ضمن معايير تصنيف المنشآت وفق القرارات التي تصدرها الجهات المختصة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l310",
+    "topic": "الالتزام باللوائح القانونية",
+    "article_ref": "Cabinet Resolution Article 2",
+    "text": "يعد مستوى التزام المنشأة باللوائح القانونية ذات الصلة أحد المعايير التي يمكن أن تؤخذ في الاعتبار عند تصنيف المنشآت.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l311",
+    "topic": "مستويات مهارات العمال",
+    "article_ref": "Cabinet Resolution Article 3",
+    "text": "يمكن تصنيف العمال وفق مستويات المهارة والتعليم والإنتاجية والمستوى المهني أو مستوى الأجر وفق النظام الذي تحدده الجهات المختصة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l312",
+    "topic": "المؤهلات التعليمية للعامل",
+    "article_ref": "Cabinet Resolution Article 3",
+    "text": "تعد المؤهلات التعليمية أحد المعايير التي يمكن استخدامها في تصنيف العمال وتحديد مستويات المهارة وفق النظام المعتمد.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l313",
+    "topic": "إنتاجية العامل",
+    "article_ref": "Cabinet Resolution Article 3",
+    "text": "يمكن أن تدخل إنتاجية العامل ضمن المعايير المستخدمة لتحديد تصنيفه المهني وفق اللوائح والقرارات المعتمدة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l314",
+    "topic": "المستوى المهني للعامل",
+    "article_ref": "Cabinet Resolution Article 3",
+    "text": "يمكن تصنيف العامل وفق مستواه المهني أو الوظيفي بما يتوافق مع المعايير التي تحددها الجهات المختصة.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  },
+  {
+    "id": "l315",
+    "topic": "حالة إقامة العامل",
+    "article_ref": "Cabinet Resolution Article 3",
+    "text": "يمكن أن تؤخذ حالة إقامة العامل في الاعتبار ضمن معايير تصنيف العمال الخاضعين لأحكام المرسوم بقانون.",
+    "source_name": "Cabinet Resolution No. 1 of 2022",
+    "source_url": "https://www.mohre.gov.ae/assets/download/ff353ce9/Cabinet%20Resolution%20_Executive Regulations Decree-Law No. 33.pdf.aspx"
+  }
+]
