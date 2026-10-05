@@ -1,8 +1,5 @@
-faiss-cpu
-sentence-transformers
-openai
-scikit-learn
-pandas
-numpy
-joblib
-python-dotenv
+faiss-cpu>=1.7
+sentence-transformers>=2.2
+openai>=1.0
+python-dotenv>=1.0
+numpy>=1.24
