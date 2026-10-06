@@ -1,126 +1,123 @@
-# LRABot — مساعد البحث القانوني (قانون العمل الإماراتي، RAG)
+# LRABot — Legal Research Assistant (UAE Labor Law, RAG)
 
-أداة بحث سريع مبنية على RAG لمساعدة محامٍ أو مستشار قانوني على استرجاع
-نقاط من **قانون العمل الإماراتي** (Federal Decree-Law No. 33 of 2021
-وتعديلاته)، مع رابط المصدر الرسمي لكل إجابة.
+A RAG-based quick research tool designed to help lawyers or legal consultants retrieve
+key points from the **UAE ​​Labor Law** (Federal Decree-Law No. 33 of 2021
+and its amendments), providing a link to the official source for every answer.
 
-## ⚠️ كيف تُستخدم هذه الأداة بأمان
+##  How to use this tool safely
 
-- هذه أداة **بحث سريع (research aid)**، وليست بديلاً عن قراءة النص
-  الرسمي الكامل للتشريع، ولا عن استشارة محامٍ مرخص.
-- كل إجابة **ملخصة (paraphrased)**، وليست نصاً حرفياً من القانون (بسبب
-  قيود حقوق النشر على النصوص والترجمات الرسمية). تحقق دائماً من المادة
-  الأصلية قبل الاعتماد عليها في عمل فعلي.
-- القاعدة المعرفية هنا تغطي **350 موضوعاً** مبنياً على بحث حقيقي من مصادر
-  رسمية (MOHRE، u.ae، uaelegislation.gov.ae) ومصادر قانونية موثوقة، لكنها
-  لا تزال محدودة النطاق ولا تغطي كل تفصيل في التشريع.
-
-## هيكل المشروع
+- This is a **quick research aid**; it is not a substitute for reading the full
+official text of the legislation or consulting a licensed lawyer.
+- Every answer is **paraphrased** and not a verbatim quote from the law (due
+to copyright restrictions on official texts and translations). Always verify
+the original article before relying on it for actual legal work.
+- The knowledge base covers **350 topics** derived from authentic research using
+official sources (MOHRE, u.ae, uaelegislation.gov.ae) and reliable legal
+references; however, its scope is limited and does not cover every detail
+of the legislation. ## Project Structure
 
 ```
 lawyer_assistant/
-├── lawyer_assistant_chatbot.py   # نقطة التشغيل -- شغّل هذا الملف
-├── knowledge_base.json           # 350 موضوعاً قانونياً، كل واحد مع مصدره
+├── lawyer_assistant_chatbot.py   # Entry point — run this file
+├── knowledge_base.json           # 350 legal topics, each with its source
 ├── requirements.txt
-├── .env                          # مفتاح API وإعدادات النموذج (لا تشارك هذا الملف أبداً)
+├── .env                          # API key and model settings (never share this file)
 └── .gitignore
 ```
 
-## الإعداد
+## Setup
 
 ```bash
 python -m venv venv
-source venv/bin/activate        # على ويندوز: venv\Scripts\activate
+source venv/bin/activate        # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-افتح ملف `.env` وأدخل مفتاحك الخاص:
+Open the `.env` file and enter your API key:
 
 ```
 LLM_API_KEY=sk-your-key-here
 LLM_MODEL=gpt-4o-mini
-# LLM_BASE_URL=   # فقط إذا كنت تستخدم مزوداً آخر غير OpenAI
+# LLM_BASE_URL=   # Only if using a provider other than OpenAI
 ```
 
-## التشغيل
+## Running the Application
 
 ```bash
 python lawyer_assistant_chatbot.py
 ```
 
-اكتب سؤالك البحثي، واحصل على إجابة مع قائمة المصادر المسترجَعة. اكتب
-`خروج` لإنهاء الجلسة.
+Type your legal question to receive an answer along with a list of retrieved sources. Type
+`خروج` (Exit) to end the session.
 
-أمثلة لأسئلة يمكن تجربتها:
-- "كيف تُحسب مكافأة نهاية الخدمة؟"
-- "ما هي حالات الفصل دون إشعار أو مكافأة؟"
-- "ما هي مهلة الطعن بالتمييز؟"
-- "ما حكم قضايا الميراث؟" (لاختبار رسالة "خارج نطاق القاعدة المعرفية")
+Example questions to try:
+- "How is the end-of-service gratuity calculated?"
+- "What are the grounds for dismissal without notice or severance pay?"
+- "What is the deadline for filing a cassation appeal?"
+- "What is the ruling on inheritance cases?" (To test the "out-of-scope" response)
 
-## كل إجابة مع مصادرها
+## Answers with Sources
 
-كل رد يتضمن قسمين: الإجابة نفسها (مبنية فقط على السياق المسترجَع، وليس
-من معرفة النموذج العامة)، وقائمة "المصادر المسترجَعة" التي تذكر الموضوع،
-المادة المرجعية، اسم المصدر، ورابطه -- حتى تتمكن من التحقق فوراً من النص
-الأصلي.
+Each response consists of two parts: the answer itself (based solely on the retrieved context,
+not the model's general knowledge) and a list of "Retrieved Sources." This list includes
+the topic, reference article, source name, and link—allowing you to immediately verify
+the original text. ## Running without an API Key
 
-## التشغيل بدون مفتاح API
+If `LLM_API_KEY` is left blank, the tool continues to function—displaying the raw
+snippets retrieved from the knowledge base directly, without natural language
+formulation.
 
-إذا تُرك `LLM_API_KEY` فارغاً، تستمر الأداة بالعمل -- تعرض المقتطفات
-الخام المسترجَعة من قاعدة المعرفة مباشرة، بدون صياغة لغوية طبيعية.
+## Using Another Provider
 
-## استخدام مزوّد آخر
-
-OpenAI هو الافتراضي. لاستخدام مزوّد آخر متوافق مع OpenAI (مثل DeepSeek
-أو OpenRouter)، اضبط كلا المتغيرين في `.env`:
+OpenAI is the default. To use another OpenAI-compatible provider (such as
+DeepSeek or OpenRouter), set both variables in `.env`:
 
 ```
 LLM_MODEL=deepseek-chat
 LLM_BASE_URL=https://api.deepseek.com
 ```
 
-استخدم فقط النطاق الرسمي للمزوّد. لا توجّه `LLM_BASE_URL` أبداً إلى نطاق
-طرف ثالث غير معروف.
+Use only the provider's official domain. Never point `LLM_BASE_URL` to an
+unknown third-party domain.
 
-## توسيع القاعدة المعرفية
+## Expanding the Knowledge Base
 
-كل مدخل في `knowledge_base.json` يتبع هذه البنية:
+Each entry in `knowledge_base.json` follows this structure:
 
 ```json
 {
-  "id": "l001",
-  "topic": "مدة عقد العمل",
-  "article_ref": "المادة المتعلقة بمدة العقد -- Federal Decree-Law No. 33 of 2021",
-  "text": "ملخص الموضوع بصياغتك الخاصة، وليس نصاً حرفياً من القانون",
-  "source_name": "اسم المصدر",
-  "source_url": "رابط المصدر الرسمي"
+"id": "l001",
+"topic": "Employment contract duration",
+"article_ref": "Article regarding contract duration -- Federal Decree-Law No. 33 of 2021",
+"text": "A summary of the topic in your own words, not a verbatim quote from the law",
+"source_name": "Source name",
+"source_url": "Official source link"
 }
 ```
 
-عند إضافة مواضيع جديدة، التزم بنفس القاعدة: ابحث عن مصدر رسمي أو موثوق
-أولاً، لخّص بصياغتك الخاصة، واذكر المصدر دائماً. لا تخترع أرقاماً أو
-أحكاماً قانونية دون التحقق منها.
+When adding new topics, adhere to the same rule: first find an official or
+reliable source, summarize in your own words, and always cite the source. Do
+not invent figures or legal provisions without verification.
 
-## ضبط سلوك الاسترجاع
+## Configuring Retrieval Behavior
 
-في ملف `lawyer_assistant_chatbot.py`:
+In the `lawyer_assistant_chatbot.py` file:
 
-- `TOP_K` -- عدد المواضيع المسترجَعة لكل سؤال (افتراضياً 3).
-- `SIMILARITY_THRESHOLD` -- درجة التشابه المطلوبة قبل اعتبار السؤال داخل
-  نطاق القاعدة المعرفية (افتراضياً 0.35). خفّضها لتوسيع نطاق التغطية، أو
-  ارفعها لتقليل الإجابات على أسئلة غير مرتبطة بوضوح.
+- `TOP_K` -- The number of topics retrieved per question (default is 3). - `SIMILARITY_THRESHOLD` -- The similarity score required to consider a question
+within the scope of the knowledge base (default: 0.35). Lower it to expand coverage,
+or raise it to reduce responses to questions that are not clearly relevant.
 
-## النشر (Deployment)
+## Deployment
 
-يعمل كسكربت Python عادي، ويمكن ربطه بسهولة بواجهة ويب (FastAPI/Flask) أو
-أي منصة تشغّل عمليات Python. احتفظ بـ `LLM_API_KEY` كسرّ على مستوى المنصة
-دائماً، ولا ترفع `.env` لأي مستودع.
+It runs as a standard Python script and can easily be integrated with a web interface
+(FastAPI/Flask) or any platform that executes Python processes. Always keep
+`LLM_API_KEY` as a platform-level secret, and do not upload the `.env` file to any repository.
 
-## محدوديات معروفة
+## Known Limitations
 
-- القاعدة المعرفية لا تغطي كل تفصيل في قانون العمل، ولا تغطي قوانين أخرى
-  (مدني، جنائي، تجاري) على الإطلاق.
-- لا يوجد نظام مصادقة أو تدقيق (audit log) لمن يستخدم الأداة وماذا يسأل؛
-  أضف هذا قبل الاستخدام المؤسسي الفعلي.
-- التشريعات تتغير عبر تعديلات لاحقة؛ القاعدة المعرفية تعكس فهماً عاماً
-  وقت إعدادها فقط.
+- The knowledge base does not cover every detail of labor law, nor does it cover
+other areas of law (civil, criminal, commercial) at all.
+- There is no authentication or audit logging system to track users and their queries; 
+implement this before actual organizational use.
+- Legislation changes through subsequent amendments; the knowledge base reflects
+a general understanding based only on the time of its creation.
